@@ -16,7 +16,7 @@ Here are some of the projects I’ve worked on:
 - **[Sentiment-Analysis-Project](https://github.com/Abdulrahman-Ayman-Farid/Sentiment-Analysis-Project)**  
 - **[College-Tasks](https://github.com/Abdulrahman-Ayman-Farid/College-Tasks)**  
 - **[Image_Recognition_Project](https://github.com/Abdulrahman-Ayman-Farid/Image_Recognition_Project)**  
-- **[Article_Recommender_System](https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender_System)**  
+- **[Article_Recommender_System](https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender)**  
 - **[AgriChat](https://github.com/elewashy/AgriChat)**  
 - **[Emotion_Classifier](https://github.com/Abdulrahman-Ayman-Farid/Emotion_Classifier)**  
 
