@@ -2,7 +2,7 @@
 
 ## 👋 About Me  
 I am Abdulrahman Ayman Farid, an AI engineer with a passion for building innovative solutions using artificial intelligence, machine learning, and deep learning. With a solid foundation in mathematics and extensive experience in project development, I specialize in creating impactful and efficient systems.  
-I partcipated in many hackathons and competitions, of which one we got 2nd place in Egypt (Google Solution Challenge AUC 2024 Hackathon)
+I partcipated in +7 hackathons and competitions, of which one we got 2nd place in Egypt (Google Solution Challenge AUC 2024 Hackathon)
 ## 🛠️ Skills  
 - **Programming Languages:** Python, C++, HTML/CSS, JavaScript  
 - **AI & ML Frameworks:** TensorFlow, PyTorch, scikit-learn, Keras  
