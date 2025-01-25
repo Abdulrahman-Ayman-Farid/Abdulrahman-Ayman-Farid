@@ -25,7 +25,7 @@ Here are some of the projects I’ve worked on:
 - Speaker in AI and marketing events, sharing insights on cutting-edge technologies and their real-world applications.  
 
 ## 🌐 Connect With Me  
-- **LinkedIn:** [Abdulrahman A. Farid]([https://www.linkedin.com/in/abdulrahman-ayman-farid/])  
+- **LinkedIn:** [Abdulrahman A. Farid](https://www.linkedin.com/in/abdulrahman-farid333)  
 - **Email:** abdulrahmanaymanfarid@gmail.com 
 
 Let’s build the future of AI together!  
