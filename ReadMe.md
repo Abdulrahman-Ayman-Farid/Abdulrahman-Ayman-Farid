@@ -2,9 +2,9 @@
   
 # 👋 Hi, I'm Abdulrahman Ayman Farid
 
-### 🤖 AI Engineer | 🧠 Machine Learning Specialist | 🚀 Innovation Enthusiast
+### 🤖 Senior AI Engineer @ Obelion AI | 🧠 LLM Specialist | 🚀 Agentic Systems Expert
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%26+ML+Specialist;Building+the+Future+with+AI;7%2B+Hackathons+Participant;Google+Solution+Challenge+Finalist&font=Roboto&size=20&duration=3000&pause=1000&color=2F81F7&center=true&width=500&height=50" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+AI+Engineer+%40+Obelion+AI;LLM+%26+Agentic+Systems+Specialist;10%2B+Years+AI+Experience;Building+Autonomous+AI+Agents&font=Roboto&size=20&duration=3000&pause=1000&color=2F81F7&center=true&width=500&height=50" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-farid333)
 [![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulrahmanaymanfarid.vercel.app)
@@ -18,14 +18,14 @@
 
 ## 🎯 About Me
 
-> *Passionate AI Engineer building innovative solutions with cutting-edge technology*
+> *Senior AI Engineer at Obelion AI building next-generation intelligent systems with cutting-edge technology*
 
-🔹 **AI Engineer** with expertise in Machine Learning, Deep Learning, and Generative AI  
+🔹 **Senior AI Engineer at Obelion AI** with 10+ years of expertise in Machine Learning, Deep Learning, LLMs, and Agentic Systems  
 🔹 **7+ Hackathons** participant with **2nd Place** in Google Solution Challenge AUC 2024  
-🔹 **Mathematics Foundation** with extensive project development experience  
-🔹 **Innovation Focus** on creating impactful and efficient AI systems  
-🔹 **Leadership Experience** as former college students' union representative  
-🔹 **Public Speaker** at AI and marketing events sharing cutting-edge insights  
+🔹 **Advanced Mathematics & Engineering Foundation** with extensive enterprise AI development experience  
+🔹 **Innovation Leadership** in creating impactful, scalable AI systems and autonomous agents  
+🔹 **Technical Leadership Experience** in AI teams and cross-functional collaboration  
+🔹 **Industry Speaker** at AI conferences sharing insights on LLMs, Agent Architecture, and AI Engineering  
 
 ---
 
@@ -35,20 +35,35 @@
 <div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 </div>
 
 ### 🤖 AI & ML Frameworks
 <div align="center">
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
+
+</div>
+
+### 🧠 LLM & Agent Technologies
+<div align="center">
+
+![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=ai&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-8B5CF6?style=for-the-badge&logo=llamaindex&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=chroma&logoColor=white)
+![Weaviate](https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logo=weaviate&logoColor=white)
 
 </div>
 
@@ -58,16 +73,42 @@
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 </div>
 
-### 🎯 Specializations
+### 🚀 MLOps & Deployment
 <div align="center">
 
-| 🧠 Neural Networks | ⚡ Optimization | 🎨 Generative AI |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
+![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
+
+</div>
+
+### 🎯 Core Specializations
+<div align="center">
+
+| 🤖 **Agentic System Planning** | 🧠 Large Language Models | ⚡ MLOps & Deployment |
 |:---:|:---:|:---:|
-| 🎯 Recommendation Systems | 💬 Chatbots | 🤖 Large Language Models |
+| 🔗 Multi-Agent Orchestration | 💬 Conversational AI | 🎨 Generative AI Systems |
+
+</div>
+
+### 📈 Skills Proficiency
+<div align="center">
+
+| 🎯 Skill | 📊 Level | 🏆 Grade |
+|:---|:---:|:---:|
+| **🤖 Agentic System Planning** | Expert | **A+** |
+| **🧠 LLM Engineering** | Advanced | **B+** |
+| **⚡ Deep Learning** | Advanced | **B+** |
+| **🔗 MLOps & Production** | Advanced | **B+** |
+| **📊 Data Science** | Advanced | **B+** |
+| **🎨 Computer Vision** | Proficient | **B+** |
 
 </div>
 
@@ -181,31 +222,36 @@
 
 | 🎯 Achievement | 📅 Year | 🏢 Organization |
 |:---|:---:|:---|
+| 🚀 **Senior AI Engineer** - Obelion AI | 2024 | Obelion AI |
+| 🤖 **Agentic Systems Expert** - Industry Recognition | 2024 | AI Community |
 | 🥈 **2nd Place** - Google Solution Challenge | 2024 | Google Developers - AUC |
-| 🎤 **AI Speaker** - Tech Events | 2023-2024 | Various Conferences |
-| 👥 **Student Union Representative** | 2023 | College Leadership |
-| 🏆 **7+ Hackathons Participant** | 2022-2024 | Multiple Organizations |
+| 🎤 **LLM & AI Speaker** - Tech Conferences | 2023-2024 | Various Conferences |
+| 🏆 **10+ Years AI Experience** - Industry Veteran | 2014-2024 | Technology Industry |
+| 📈 **7+ Hackathons Participant** | 2022-2024 | Multiple Organizations |
 
 </div>
 
 ---
 
-## 💼 Leadership & Experience
+## 💼 Professional Experience & Leadership
 
 <div align="center">
 
-### 🎯 Professional Journey
+### 🎯 Current Role & Journey
 
 </div>
 
-🔸 **🎯 Former Student Union Representative**  
-*Leading initiatives to drive collaboration and innovation within the academic community*
+🔸 **🤖 Senior AI Engineer @ Obelion AI**  
+*Leading the development of advanced agentic systems and LLM-powered solutions for enterprise clients*
 
-🔸 **🎤 AI & Technology Speaker**  
-*Sharing insights on cutting-edge technologies and their real-world applications at various events*
+🔸 **🧠 Agentic Systems Architect**  
+*Designing and implementing multi-agent orchestration frameworks and autonomous AI workflows*
 
-🔸 **🏆 Hackathon Enthusiast**  
-*Actively participating in innovation challenges to solve real-world problems*
+🔸 **🎤 AI Industry Speaker & Thought Leader**  
+*Sharing expertise on LLMs, Agent Architecture, and Enterprise AI at leading technology conferences*
+
+🔸 **🏆 Innovation & Research Leader**  
+*Driving cutting-edge research in autonomous agents and next-generation AI systems*
 
 ---
 
@@ -223,11 +269,11 @@
 
 <br>
 
-**🚀 Open for collaboration on AI/ML projects, research opportunities, and innovative solutions!**
+**🚀 Open for collaboration on enterprise AI/LLM projects, agentic system architecture, and cutting-edge research opportunities!**
 
 <br>
 
-*"Building intelligent systems that make a difference, one algorithm at a time."*
+*"Architecting autonomous intelligence that transforms industries, one agent at a time."*
 
 </div>
 
