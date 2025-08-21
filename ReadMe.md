@@ -2,7 +2,7 @@
   
 # 👋 Hi, I'm Abdulrahman Ayman Farid
 
-### 🤖 Senior AI Engineer @ Obelion AI | 🧠 LLM Specialist | 🚀 Agentic Systems Expert
+### 🤖 AI Engineer @ Obelion AI | 🧠 LLM Specialist | 🚀 Agentic Systems Expert
 
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+AI+Engineer+%40+Obelion+AI;LLM+%26+Agentic+Systems+Specialist;10%2B+Years+AI+Experience;Building+Autonomous+AI+Agents&font=Roboto&size=20&duration=3000&pause=1000&color=2F81F7&center=true&width=500&height=50" alt="Typing SVG" />
 
