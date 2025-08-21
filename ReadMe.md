@@ -20,7 +20,7 @@
 
 > AI Engineer at Obelion AI building next-generation intelligent systems with cutting-edge technology*
 
-🔹 **Senior AI Engineer at Obelion AI** with 4+ years of expertise in Machine Learning, Deep Learning, LLMs, and Agentic Systems  
+🔹 **AI Engineer at Obelion AI** with 4+ years of expertise in Machine Learning, Deep Learning, LLMs, and Agentic Systems  
 🔹 **7+ Hackathons** participant with **2nd Place** in Google Solution Challenge AUC 2024  
 🔹 **Advanced Mathematics & Engineering Foundation** with extensive enterprise AI development experience  
 🔹 **Innovation Leadership** in creating impactful, scalable AI systems and autonomous agents  
