@@ -222,12 +222,12 @@
 
 | 🎯 Achievement | 📅 Year | 🏢 Organization |
 |:---|:---:|:---|
-| 🚀 **Senior AI Engineer** - Obelion AI | 2024 | Obelion AI |
-| 🤖 **Agentic Systems Expert** - Industry Recognition | 2024 | AI Community |
+| 🚀 **AI Engineer** - Obelion AI | 2025 | Obelion AI |
+| 🤖 **Agentic Systems Expert** - Industry Recognition | 2025 | AI Community |
 | 🥈 **2nd Place** - Google Solution Challenge | 2024 | Google Developers - AUC |
-| 🎤 **LLM & AI Speaker** - Tech Conferences | 2023-2024 | Various Conferences |
-| 🏆 **10+ Years AI Experience** - Industry Veteran | 2014-2024 | Technology Industry |
-| 📈 **7+ Hackathons Participant** | 2022-2024 | Multiple Organizations |
+| 🎤 **LLM & AI Speaker** - Tech Conferences | 2024-2025 | Various Conferences |
+| 🏆 **4+ Years AI Experience** - Industry Veteran | 2021-2025 | Technology Industry |
+| 📈 **7+ Hackathons Participant** | 2022-2025 | Multiple Organizations in Both Local & Global Scopes |
 
 </div>
 
@@ -241,7 +241,7 @@
 
 </div>
 
-🔸 **🤖 Senior AI Engineer @ Obelion AI**  
+🔸 **🤖 AI Engineer @ Obelion AI**  
 *Leading the development of advanced agentic systems and LLM-powered solutions for enterprise clients*
 
 🔸 **🧠 Agentic Systems Architect**  
@@ -250,7 +250,7 @@
 🔸 **🎤 AI Industry Speaker & Thought Leader**  
 *Sharing expertise on LLMs, Agent Architecture, and Enterprise AI at leading technology conferences*
 
-🔸 **🏆 Innovation & Research Leader**  
+🔸 **🏆 Innovation & Team Leader**  
 *Driving cutting-edge research in autonomous agents and next-generation AI systems*
 
 ---
