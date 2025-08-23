@@ -7,7 +7,7 @@
 <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%40+Obelion+AI;LLM+%26+Agentic+Systems+Specialist;4%2B+Years+AI+Experience;Building+Autonomous+AI+Agents&font=Roboto&size=20&duration=3000&pause=1000&color=2F81F7&center=true&width=500&height=50" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-farid333)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://https://abdulrahman-ayman-farid.vercel.app)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulrahman-ayman-farid.vercel.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanaymanfarid@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman-Ayman-Farid&color=blue&style=flat-square)
