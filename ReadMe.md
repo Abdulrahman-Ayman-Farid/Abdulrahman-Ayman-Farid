@@ -310,46 +310,46 @@
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" height="35" /> GitHub Analytics & Performance
+## <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><span style="font-size: 35px;">📊</span> GitHub Analytics & Performance</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Coding+Stats+%26+Performance+Metrics;Open+Source+Contributions;Building+in+Public" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Coding+Stats+%26+Performance+Metrics;Open+Source+Contributions;Building+in+Public&color=00ff88" style="filter: drop-shadow(0 0 8px #00ff88);" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulrahman-Ayman-Farid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulrahman-Ayman-Farid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" style="filter: drop-shadow(0 0 10px #00ff88);"/>
       </td>
       <td>
-        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdulrahman-Ayman-Farid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdulrahman-Ayman-Farid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" style="filter: drop-shadow(0 0 10px #00ff88);"/>
       </td>
     </tr>
   </table>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Ayman-Farid&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Ayman-Farid&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" style="filter: drop-shadow(0 0 10px #00ff88);" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman-Ayman-Farid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area_color=58A6FF&area=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman-Ayman-Farid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area_color=58A6FF&area=true" width="100%" alt="Activity Graph" style="filter: drop-shadow(0 0 10px #00ff88);" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="30" />
+        <span style="font-size: 30px;">🏆</span>
         <br /><b>GitHub Trophies</b>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="30" />
+        <span style="font-size: 30px;">📈</span>
         <br /><b>Contribution Stats</b>
       </td>
       <td align="center">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="30" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="30" style="filter: drop-shadow(0 0 5px #00ff88);" />
         <br /><b>Coding Streak</b>
       </td>
     </tr>
@@ -357,15 +357,15 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ayman-Farid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ayman-Farid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" style="filter: drop-shadow(0 0 8px #00ff88);" />
 </div>
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="35" height="35" /> Featured Projects
+## <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="35" height="35" style="filter: drop-shadow(0 0 5px #00ff88);" /> Featured Projects</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Innovative+AI+%26+ML+Solutions;Open+Source+Contributions;Real-World+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Innovative+AI+%26+ML+Solutions;Open+Source+Contributions;Real-World+Applications&color=00ff88" style="filter: drop-shadow(0 0 8px #00ff88);" />
 </div>
 
 <div align="center">
@@ -374,29 +374,29 @@
       <td width="50%" valign="top">
         <div align="center">
           <a href="https://github.com/Abdulrahman-Ayman-Farid/SolScan">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=SolScan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=SolScan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" style="filter: drop-shadow(0 0 8px #00ff88);" />
           </a>
         </div>
         <div align="center">
           <h3>🔍 <a href="https://github.com/Abdulrahman-Ayman-Farid/SolScan">SolScan</a></h3>
           <p><b>AI-Powered Document Scanner</b></p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, Computer Vision, OCR<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Document detection, text extraction<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Automated document digitization
+          <span style="font-size: 20px;">🖥️</span> <b>Tech:</b> Python, Computer Vision, OCR<br />
+          <span style="font-size: 20px;">📋</span> <b>Features:</b> Document detection, text extraction<br />
+          <span style="font-size: 20px;">🎯</span> <b>Impact:</b> Automated document digitization
         </div>
       </td>
       <td width="50%" valign="top">
         <div align="center">
           <a href="https://github.com/Abdulrahman-Ayman-Farid/ChatBot-Project">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=ChatBot-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=ChatBot-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" style="filter: drop-shadow(0 0 8px #00ff88);" />
           </a>
         </div>
         <div align="center">
           <h3>💬 <a href="https://github.com/Abdulrahman-Ayman-Farid/ChatBot-Project">ChatBot Project</a></h3>
           <p><b>Intelligent Conversational AI</b></p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, NLP, Machine Learning<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> NLP, context understanding<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Enhanced user interaction
+          <span style="font-size: 20px;">🖥️</span> <b>Tech:</b> Python, NLP, Machine Learning<br />
+          <span style="font-size: 20px;">📋</span> <b>Features:</b> NLP, context understanding<br />
+          <span style="font-size: 20px;">🎯</span> <b>Impact:</b> Enhanced user interaction
         </div>
       </td>
     </tr>
@@ -404,29 +404,29 @@
       <td width="50%" valign="top">
         <div align="center">
           <a href="https://github.com/Abdulrahman-Ayman-Farid/Sentiment-Analysis-Project">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Sentiment-Analysis-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Sentiment-Analysis-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" style="filter: drop-shadow(0 0 8px #00ff88);" />
           </a>
         </div>
         <div align="center">
           <h3>📈 <a href="https://github.com/Abdulrahman-Ayman-Farid/Sentiment-Analysis-Project">Sentiment Analysis</a></h3>
           <p><b>Emotion Detection System</b></p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, NLP, Deep Learning<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Sentiment classification, emotion recognition<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Real-time sentiment monitoring
+          <span style="font-size: 20px;">🖥️</span> <b>Tech:</b> Python, NLP, Deep Learning<br />
+          <span style="font-size: 20px;">📋</span> <b>Features:</b> Sentiment classification, emotion recognition<br />
+          <span style="font-size: 20px;">🎯</span> <b>Impact:</b> Real-time sentiment monitoring
         </div>
       </td>
       <td width="50%" valign="top">
         <div align="center">
           <a href="https://github.com/Abdulrahman-Ayman-Farid/Image_Recognition_Project">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Image_Recognition_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Image_Recognition_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" style="filter: drop-shadow(0 0 8px #00ff88);" />
           </a>
         </div>
         <div align="center">
           <h3>👁️ <a href="https://github.com/Abdulrahman-Ayman-Farid/Image_Recognition_Project">Image Recognition</a></h3>
           <p><b>Computer Vision System</b></p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, TensorFlow, CNN<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Object detection, image classification<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Automated visual recognition
+          <span style="font-size: 20px;">🖥️</span> <b>Tech:</b> Python, TensorFlow, CNN<br />
+          <span style="font-size: 20px;">📋</span> <b>Features:</b> Object detection, image classification<br />
+          <span style="font-size: 20px;">🎯</span> <b>Impact:</b> Automated visual recognition
         </div>
       </td>
     </tr>
@@ -434,29 +434,29 @@
       <td width="50%" valign="top">
         <div align="center">
           <a href="https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Article_Recommender&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Article_Recommender&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" style="filter: drop-shadow(0 0 8px #00ff88);" />
           </a>
         </div>
         <div align="center">
           <h3>📚 <a href="https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender">Article Recommender</a></h3>
           <p><b>AI Recommendation Engine</b></p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, ML, Collaborative Filtering<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Content filtering, preference analysis<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Personalized content discovery
+          <span style="font-size: 20px;">🖥️</span> <b>Tech:</b> Python, ML, Collaborative Filtering<br />
+          <span style="font-size: 20px;">📋</span> <b>Features:</b> Content filtering, preference analysis<br />
+          <span style="font-size: 20px;">🎯</span> <b>Impact:</b> Personalized content discovery
         </div>
       </td>
       <td width="50%" valign="top">
         <div align="center">
           <a href="https://github.com/Abdulrahman-Ayman-Farid/Emotion_Classifier">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Emotion_Classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Emotion_Classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" style="filter: drop-shadow(0 0 8px #00ff88);" />
           </a>
         </div>
         <div align="center">
           <h3>😊 <a href="https://github.com/Abdulrahman-Ayman-Farid/Emotion_Classifier">Emotion Classifier</a></h3>
           <p><b>Facial Emotion Recognition</b></p>
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, OpenCV, Deep Learning<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Real-time emotion detection<br />
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Human-computer interaction enhancement
+          <span style="font-size: 20px;">🖥️</span> <b>Tech:</b> Python, OpenCV, Deep Learning<br />
+          <span style="font-size: 20px;">📋</span> <b>Features:</b> Real-time emotion detection<br />
+          <span style="font-size: 20px;">🎯</span> <b>Impact:</b> Human-computer interaction enhancement
         </div>
       </td>
     </tr>
@@ -469,14 +469,14 @@
     <tr>
       <td align="center" width="50%">
         <a href="https://github.com/elewashy/AgriChat">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="🌾" width="30" />
+          <span style="font-size: 30px;">🌾</span>
           <br /><b>AgriChat</b>
         </a>
         <br />Agricultural AI Assistant
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Abdulrahman-Ayman-Farid/College-Tasks">
-          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="30" />
+          <span style="font-size: 30px;">📚</span>
           <br /><b>College Tasks</b>
         </a>
         <br />Academic Project Collection
@@ -487,19 +487,19 @@
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" height="35" /> Achievements & Recognition
+## <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><span style="font-size: 35px;">🏆</span> Achievements & Recognition</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Industry+Recognition+%26+Awards;Professional+Milestones;Community+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Industry+Recognition+%26+Awards;Professional+Milestones;Community+Impact&color=00ff88" style="filter: drop-shadow(0 0 8px #00ff88);" />
 </div>
 
 <div align="center">
   <table>
     <tr>
-      <th width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="25" /> Achievement</th>
-      <th width="15%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="📅" width="25" /> Year</th>
-      <th width="30%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" alt="🏢" width="25" /> Organization</th>
-      <th width="35%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="25" /> Description</th>
+      <th width="20%"><span style="font-size: 25px;">🏆</span> Achievement</th>
+      <th width="15%"><span style="font-size: 25px;">📅</span> Year</th>
+      <th width="30%"><span style="font-size: 25px;">🏢</span> Organization</th>
+      <th width="35%"><span style="font-size: 25px;">📝</span> Description</th>
     </tr>
     <tr>
       <td><b>🚀 AI Engineer</b></td>
@@ -541,7 +541,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ayman-Farid&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Achievement Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ayman-Farid&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Achievement Trophies" style="filter: drop-shadow(0 0 10px #00ff88);" />
 </div>
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
