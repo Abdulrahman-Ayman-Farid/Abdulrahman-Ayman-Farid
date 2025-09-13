@@ -1,23 +1,23 @@
 <div align="center">
 
-<!-- Animated Header Background -->
-<img width="100%" height="300" alt="" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" />
+<!-- Animated Header Background with Neon Effect -->
+<img width="100%" height="300" alt="" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" style="filter: drop-shadow(0 0 20px #00ff88);" />
 
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> Hi there, I'm Abdulrahman Ayman Farid
+# <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88, 0 0 20px #00ff88, 0 0 30px #00ff88;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> Hi there, I'm Abdulrahman Ayman Farid</span>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;AI+Engineer+%40+Obelion+AI+🤖;LLM+%26+Agentic+Systems+Expert+🧠;Building+Autonomous+AI+Agents+🚀;4%2B+Years+of+AI+Innovation+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;AI+Engineer+%40+Obelion+AI+🤖;LLM+%26+Agentic+Systems+Expert+🧠;Building+Autonomous+AI+Agents+🚀;4%2B+Years+of+AI+Innovation+⚡&color=00ff88" style="filter: drop-shadow(0 0 10px #00ff88);" />
 
-<h3 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="25" height="25" />
+<h3 align="center" style="color: #00ff88; text-shadow: 0 0 5px #00ff88;">
+  <span style="font-size: 25px;">🤖</span>
   AI Engineer @ Obelion AI
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="25" height="25" />
+  <span style="font-size: 25px;">🧠</span>
   LLM Specialist
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" height="25" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" height="25" style="filter: drop-shadow(0 0 5px #00ff88);" />
   Agentic Systems Expert
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Autonomous+Intelligence;Transforming+Industries+with+AI;Building+Next-Gen+AI+Agents;4%2B+Years+of+Innovation;Passionate+Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Autonomous+Intelligence;Transforming+Industries+with+AI;Building+Next-Gen+AI+Agents;4%2B+Years+of+Innovation;Passionate+Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=00ff88&vCenter=true&size=22&pause=1000" style="filter: drop-shadow(0 0 10px #00ff88);" />
 </p>
 
 <div align="center">
@@ -37,13 +37,13 @@
   <img src="https://img.shields.io/github/followers/Abdulrahman-Ayman-Farid?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 
-<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" style="filter: drop-shadow(0 0 10px #00ff88);" />
 
 </div>
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="35" height="35" /> About Me
+## <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><span style="font-size: 35px;">🎯</span> About Me</span>
 
 <table>
 <tr>
@@ -54,14 +54,14 @@
 </td>
 <td width="60%">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" alt="⭐" width="25" height="25" /> Who Am I?
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 25px;">⭐</span> Who Am I?</span>
 
 > *"Passionate AI Engineer at Obelion AI building next-generation intelligent systems that reshape industries"*
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="20" height="20" /> **AI Engineer at Obelion AI** with 4+ years of expertise in ML, DL, LLMs & Agentic Systems  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="20" height="20" /> **7+ Hackathons** participant with **2nd Place** in Google Solution Challenge AUC 2024  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="20" height="20" /> **Innovation Leadership** in creating impactful, scalable AI systems  
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="🎤" width="20" height="20" /> **Industry Speaker** at AI conferences on LLMs & Agent Architecture  
+<span style="font-size: 20px;">🤖</span> **AI Engineer at Obelion AI** with 4+ years of expertise in ML, DL, LLMs & Agentic Systems  
+<span style="font-size: 20px;">🏆</span> **7+ Hackathons** participant with **2nd Place** in Google Solution Challenge AUC 2024  
+<span style="font-size: 20px;">📈</span> **Innovation Leadership** in creating impactful, scalable AI systems  
+<span style="font-size: 20px;">🎤</span> **Industry Speaker** at AI conferences on LLMs & Agent Architecture  
 
 </td>
 </tr>
@@ -69,20 +69,20 @@
 
 <div align="center">
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="25" height="25" /> Current Focus Areas
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="25" height="25" style="filter: drop-shadow(0 0 5px #00ff88);" /> Current Focus Areas</span>
 
 <table>
 <tr>
 <td align="center" width="33%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="50" /><br />
+  <span style="font-size: 50px;">🧠</span><br />
   <sub><b>Agentic AI Systems</b></sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="50" /><br />
+  <span style="font-size: 50px;">🤖</span><br />
   <sub><b>Large Language Models</b></sub>
 </td>
 <td align="center" width="33%">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="50" /><br />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="50" style="filter: drop-shadow(0 0 5px #00ff88);" /><br />
   <sub><b>MLOps & Deployment</b></sub>
 </td>
 </tr>
@@ -92,13 +92,13 @@
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" height="35" /> Technical Arsenal
+## <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><span style="font-size: 35px;">🛠️</span> Technical Arsenal</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Expert+in+AI+%26+Machine+Learning;Proficient+in+Multiple+Tech+Stacks;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Expert+in+AI+%26+Machine+Learning;Proficient+in+Multiple+Tech+Stacks;Always+Learning+New+Technologies&color=00ff88" style="filter: drop-shadow(0 0 8px #00ff88);" />
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="💻" width="30" height="30" /> Programming Languages
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 30px;">💻</span> Programming Languages</span>
 
 <div align="center">
   <table>
@@ -123,7 +123,7 @@
   </table>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="30" height="30" /> AI & ML Frameworks
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 30px;">🤖</span> AI & ML Frameworks</span>
 
 <div align="center">
   <table>
@@ -156,102 +156,102 @@
   </table>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="30" height="30" /> LLM & Agent Technologies
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 30px;">🧠</span> LLM & Agent Technologies</span>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" height="50" alt="AutoGen" />
+        <span style="font-size: 50px;">⚙️</span>
         <br />AutoGen
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ship.png" width="50" height="50" alt="CrewAI" />
+        <span style="font-size: 50px;">🚢</span>
         <br />CrewAI
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Llama.png" width="50" height="50" alt="LlamaIndex" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Llama.png" width="50" height="50" alt="LlamaIndex" style="filter: drop-shadow(0 0 5px #00ff88);" />
         <br />🦙 LlamaIndex
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pin.png" width="50" height="50" alt="Pinecone" />
+        <span style="font-size: 50px;">📌</span>
         <br />Pinecone
       </td>
       <td align="center" width="20%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="50" height="50" alt="ChromaDB" />
+        <span style="font-size: 50px;">🔮</span>
         <br />ChromaDB
       </td>
     </tr>
   </table>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="30" height="30" /> Data Science & Analytics
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 30px;">📊</span> Data Science & Analytics</span>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" style="filter: drop-shadow(0 0 5px #00ff88);" />
         <br />Pandas
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" style="filter: drop-shadow(0 0 5px #00ff88);" />
         <br />NumPy
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="50" height="50" alt="Matplotlib" />
+        <span style="font-size: 50px;">📈</span>
         <br />Matplotlib
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" width="50" height="50" alt="Plotly" />
+        <span style="font-size: 50px;">📉</span>
         <br />Plotly
       </td>
     </tr>
   </table>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="30" height="30" /> MLOps & Deployment
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="30" height="30" style="filter: drop-shadow(0 0 5px #00ff88);" /> MLOps & Deployment</span>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" />
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" style="filter: drop-shadow(0 0 5px #00ff88);" />
         <br />Docker
       </td>
       <td align="center" width="25%">
-        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" style="filter: drop-shadow(0 0 5px #00ff88);" />
         <br />Kubernetes
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20with%20Upwards%20Trend.png" width="50" height="50" alt="MLflow" />
+        <span style="font-size: 50px;">📈</span>
         <br />MLflow
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png" width="50" height="50" alt="W&B" />
+        <span style="font-size: 50px;">⚖️</span>
         <br />Weights & Biases
       </td>
     </tr>
   </table>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="30" height="30" /> Core Specializations
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 30px;">🎯</span> Core Specializations</span>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33.33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="60" height="60" />
+        <span style="font-size: 60px;">🤖</span>
         <br /><b>Agentic System Planning</b>
         <br />Multi-Agent Orchestration
       </td>
       <td align="center" width="33.33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="60" height="60" />
+        <span style="font-size: 60px;">🧠</span>
         <br /><b>Large Language Models</b>
         <br />Conversational AI
       </td>
       <td align="center" width="33.33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="⚡" width="60" height="60" />
+        <span style="font-size: 60px;">⚡</span>
         <br /><b>MLOps & Deployment</b>
         <br />Generative AI Systems
       </td>
@@ -259,7 +259,7 @@
   </table>
 </div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="30" height="30" /> Skills Proficiency Matrix
+### <span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 30px;">📈</span> Skills Proficiency Matrix</span>
 
 <div align="center">
   <table>
