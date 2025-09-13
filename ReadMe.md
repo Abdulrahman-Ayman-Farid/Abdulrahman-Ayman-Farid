@@ -1,203 +1,67 @@
 <div align="center">
-  
-# 👋 Hi, I'm Abdulrahman Ayman Farid
 
-### 🤖 AI Engineer @ Obelion AI | 🧠 LLM Specialist | 🚀 Agentic Systems Expert
+<!-- Animated Header Background -->
+<img width="100%" height="300" alt="" src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" />
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer+%40+Obelion+AI;LLM+%26+Agentic+Systems+Specialist;4%2B+Years+AI+Experience;Building+Autonomous+AI+Agents&font=Roboto&size=20&duration=3000&pause=1000&color=2F81F7&center=true&width=500&height=50" alt="Typing SVG" />
+# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="👋" width="35" height="35" /> Hi there, I'm Abdulrahman Ayman Farid
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-farid333)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulrahman-ayman-farid.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanaymanfarid@gmail.com)
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&width=500&height=70&duration=4000&lines=Welcome+to+my+Profile!+👋;AI+Engineer+%40+Obelion+AI+🤖;LLM+%26+Agentic+Systems+Expert+🧠;Building+Autonomous+AI+Agents+🚀;4%2B+Years+of+AI+Innovation+⚡" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman-Ayman-Farid&color=blue&style=flat-square)
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="25" height="25" />
+  AI Engineer @ Obelion AI
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="25" height="25" />
+  LLM Specialist
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="25" height="25" />
+  Agentic Systems Expert
+</h3>
 
-</div>
-
----
-
-## 🎯 About Me
-
-> AI Engineer at Obelion AI building next-generation intelligent systems with cutting-edge technology*
-
-🔹 **AI Engineer at Obelion AI** with 4+ years of expertise in Machine Learning, Deep Learning, LLMs, and Agentic Systems  
-🔹 **7+ Hackathons** participant with **2nd Place** in Google Solution Challenge AUC 2024  
-🔹 **Advanced Mathematics & Engineering Foundation** with extensive enterprise AI development experience  
-🔹 **Innovation Leadership** in creating impactful, scalable AI systems and autonomous agents  
-🔹 **Technical Leadership Experience** in AI teams and cross-functional collaboration  
-🔹 **Industry Speaker** at AI conferences sharing insights on LLMs, Agent Architecture, and AI Engineering  
-
----
-
-## 🛠️ Technical Arsenal
-
-### 💻 Programming Languages
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-</div>
-
-### 🤖 AI & ML Frameworks
-<div align="center">
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Transformers](https://img.shields.io/badge/🤗_Transformers-FFD700?style=for-the-badge&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge&logo=anthropic&logoColor=white)
-
-</div>
-
-### 🧠 LLM & Agent Technologies
-<div align="center">
-
-![AutoGen](https://img.shields.io/badge/AutoGen-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![CrewAI](https://img.shields.io/badge/CrewAI-FF4B4B?style=for-the-badge&logo=ai&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-8B5CF6?style=for-the-badge&logo=llamaindex&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6B35?style=for-the-badge&logo=chroma&logoColor=white)
-
-</div>
-
-### 📊 Data Science & Analytics
-<div align="center">
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-
-</div>
-
-### 🚀 MLOps & Deployment
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white)
-![Weights & Biases](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=for-the-badge&logo=weightsandbiases&logoColor=white)
-
-</div>
-
-### 🎯 Core Specializations
-<div align="center">
-
-| 🤖 **Agentic System Planning** | 🧠 Large Language Models | ⚡ MLOps & Deployment |
-|:---:|:---:|:---:|
-| 🔗 Multi-Agent Orchestration | 💬 Conversational AI | 🎨 Generative AI Systems |
-
-</div>
-
-### 📈 Skills Proficiency
-<div align="center">
-
-| 🎯 Skill | 📊 Level | 🏆 Grade |
-|:---|:---:|:---:|
-| **🤖 Agentic System Planning** | Expert | **A+** |
-| **🧠 LLM Engineering** | Advanced | **B+** |
-| **⚡ Deep Learning** | Advanced | **B+** |
-| **🔗 MLOps & Production** | Advanced | **B+** |
-| **📊 Data Science** | Advanced | **B+** |
-| **🎨 Computer Vision** | Proficient | **B+** |
-
-</div>
-
----
-
-## 📊 GitHub Analytics
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Architecting+Autonomous+Intelligence;Transforming+Industries+with+AI;Building+Next-Gen+AI+Agents;4%2B+Years+of+Innovation;Passionate+Problem+Solver&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000" />
+</p>
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Ayman-Farid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Ayman-Farid&layout=compact&langs_count=8&theme=tokyonight"/>
+  <a href="https://www.linkedin.com/in/abdulrahman-farid333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5" alt="LinkedIn" />
+  </a>
+  <a href="https://abdulrahman-ayman-farid.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Website" />
+  </a>
+  <a href="mailto:abdulrahmanaymanfarid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Ayman-Farid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Abdulrahman-Ayman-Farid?label=Followers&style=social" alt="GitHub Followers" />
+</p>
+
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Ayman-Farid&theme=tokyonight)](https://git.io/streak-stats)
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-</div>
-
-<div align="center">
-  
-![Abdulrahman's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman-Ayman-Farid&theme=tokyo-night)
-
-</div>
-
----
-
-## 🚀 Featured Projects
-
-<div align="center">
-
-### 🔍 AI & Machine Learning Projects
-
-</div>
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="35" height="35" /> About Me
 
 <table>
 <tr>
-<td width="50%">
-
-### 🔍 [SolScan](https://github.com/Abdulrahman-Ayman-Farid/SolScan)
-**AI-Powered Document Scanner**
-- 🏷️ **Tech:** Python, Computer Vision, OCR
-- 📋 **Features:** Document detection, text extraction, image processing
-- 🎯 **Impact:** Automated document digitization solution
-
+<td width="40%" align="center">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="👨‍💻" width="120" />
+  <br />
+  <sub><b>Building Tomorrow's AI</b></sub>
 </td>
-<td width="50%">
+<td width="60%">
 
-### 💬 [ChatBot Project](https://github.com/Abdulrahman-Ayman-Farid/ChatBot-Project)
-**Intelligent Conversational AI**
-- 🏷️ **Tech:** Python, NLP, Machine Learning
-- 📋 **Features:** Natural language processing, context understanding
-- 🎯 **Impact:** Enhanced user interaction experience
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Glowing%20Star.png" alt="⭐" width="25" height="25" /> Who Am I?
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+> *"Passionate AI Engineer at Obelion AI building next-generation intelligent systems that reshape industries"*
 
-### 📈 [Sentiment Analysis](https://github.com/Abdulrahman-Ayman-Farid/Sentiment-Analysis-Project)
-**Emotion Detection System**
-- 🏷️ **Tech:** Python, NLP, Deep Learning
-- 📋 **Features:** Text sentiment classification, emotion recognition
-- 🎯 **Impact:** Real-time sentiment monitoring solution
-
-</td>
-<td width="50%">
-
-### 👁️ [Image Recognition](https://github.com/Abdulrahman-Ayman-Farid/Image_Recognition_Project)
-**Computer Vision System**
-- 🏷️ **Tech:** Python, TensorFlow, CNN
-- 📋 **Features:** Object detection, image classification
-- 🎯 **Impact:** Automated visual recognition system
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 📚 [Article Recommender](https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender)
-**AI Recommendation Engine**
-- 🏷️ **Tech:** Python, ML, Collaborative Filtering
-- 📋 **Features:** Content-based filtering, user preference analysis
-- 🎯 **Impact:** Personalized content discovery platform
-
-</td>
-<td width="50%">
-
-### 😊 [Emotion Classifier](https://github.com/Abdulrahman-Ayman-Farid/Emotion_Classifier)
-**Facial Emotion Recognition**
-- 🏷️ **Tech:** Python, OpenCV, Deep Learning
-- 📋 **Features:** Real-time emotion detection, facial analysis
-- 🎯 **Impact:** Human-computer interaction enhancement
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="20" height="20" /> **AI Engineer at Obelion AI** with 4+ years of expertise in ML, DL, LLMs & Agentic Systems  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="20" height="20" /> **7+ Hackathons** participant with **2nd Place** in Google Solution Challenge AUC 2024  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="20" height="20" /> **Innovation Leadership** in creating impactful, scalable AI systems  
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="🎤" width="20" height="20" /> **Industry Speaker** at AI conferences on LLMs & Agent Architecture  
 
 </td>
 </tr>
@@ -205,79 +69,663 @@
 
 <div align="center">
 
-### 🌾 [AgriChat](https://github.com/elewashy/AgriChat) | 📚 [College Tasks](https://github.com/Abdulrahman-Ayman-Farid/College-Tasks)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="25" height="25" /> Current Focus Areas
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="50" /><br />
+  <sub><b>Agentic AI Systems</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="50" /><br />
+  <sub><b>Large Language Models</b></sub>
+</td>
+<td align="center" width="33%">
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="50" /><br />
+  <sub><b>MLOps & Deployment</b></sub>
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## 🏆 Achievements & Recognition
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="🛠️" width="35" height="35" /> Technical Arsenal
 
 <div align="center">
-
-| 🎯 Achievement | 📅 Year | 🏢 Organization |
-|:---|:---:|:---|
-| 🚀 **AI Engineer** - Obelion AI | 2025 | Obelion AI |
-| 🤖 **Agentic Systems Expert** - Industry Recognition | 2025 | AI Community |
-| 🥈 **2nd Place** - Google Solution Challenge | 2024 | Google Developers - AUC |
-| 🎤 **LLM & AI Speaker** - Tech Conferences | 2024-2025 | Various Conferences |
-| 🏆 **4+ Years AI Experience** - Industry Veteran | 2021-2025 | Technology Industry |
-| 📈 **7+ Hackathons Participant** | 2022-2025 | Multiple Organizations in Both Local & Global Scopes |
-
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Expert+in+AI+%26+Machine+Learning;Proficient+in+Multiple+Tech+Stacks;Always+Learning+New+Technologies" />
 </div>
 
----
-
-## 💼 Professional Experience & Leadership
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="💻" width="30" height="30" /> Programming Languages
 
 <div align="center">
-
-### 🎯 Current Role & Journey
-
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50" alt="Python" />
+        <br />Python
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" height="50" alt="TypeScript" />
+        <br />TypeScript
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50" alt="JavaScript" />
+        <br />JavaScript
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50" alt="C++" />
+        <br />C++
+      </td>
+    </tr>
+  </table>
 </div>
 
-🔸 **🤖 AI Engineer @ Obelion AI**  
-*Leading the development of advanced agentic systems and LLM-powered solutions for enterprise clients*
-
-🔸 **🧠 Agentic Systems Architect**  
-*Designing and implementing multi-agent orchestration frameworks and autonomous AI workflows*
-
-🔸 **🎤 AI Industry Speaker & Thought Leader**  
-*Sharing expertise on LLMs, Agent Architecture, and Enterprise AI at leading technology conferences*
-
-🔸 **🏆 Innovation & Team Leader**  
-*Driving cutting-edge research in autonomous agents and next-generation AI systems*
-
----
-
-## 📫 Let's Connect & Collaborate
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="30" height="30" /> AI & ML Frameworks
 
 <div align="center">
-
-### 🌟 Ready to Build the Future of AI Together!
-
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-farid333)
-[![Website](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abdulrahmanaymanfarid.vercel.app)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanaymanfarid@gmail.com)
-
-<br>
-
-**🚀 Open for collaboration on enterprise AI/LLM projects, agentic system architecture, and cutting-edge research opportunities!**
-
-<br>
-
-*"Architecting autonomous intelligence that transforms industries, one agent at a time."*
-
+  <table>
+    <tr>
+      <td align="center" width="16.66%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="50" height="50" alt="PyTorch" />
+        <br />PyTorch
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="50" height="50" alt="TensorFlow" />
+        <br />TensorFlow
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" width="50" height="50" alt="Transformers" />
+        <br />🤗 Transformers
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://python.langchain.com/v0.1/img/brand/wordmark.png" width="80" height="30" alt="LangChain" />
+        <br />🦜 LangChain
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" width="50" height="50" alt="OpenAI" />
+        <br />OpenAI
+      </td>
+      <td align="center" width="16.66%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50" height="50" alt="Anthropic" />
+        <br />Anthropic
+      </td>
+    </tr>
+  </table>
 </div>
 
----
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="30" height="30" /> LLM & Agent Technologies
 
 <div align="center">
+  <table>
+    <tr>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" width="50" height="50" alt="AutoGen" />
+        <br />AutoGen
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Ship.png" width="50" height="50" alt="CrewAI" />
+        <br />CrewAI
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Llama.png" width="50" height="50" alt="LlamaIndex" />
+        <br />🦙 LlamaIndex
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Pin.png" width="50" height="50" alt="Pinecone" />
+        <br />Pinecone
+      </td>
+      <td align="center" width="20%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" width="50" height="50" alt="ChromaDB" />
+        <br />ChromaDB
+      </td>
+    </tr>
+  </table>
+</div>
 
-### ⭐ If you find my work interesting, please consider giving a star to my repositories!
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="30" height="30" /> Data Science & Analytics
 
-![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-❤️-blue?style=for-the-badge)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="50" height="50" alt="Pandas" />
+        <br />Pandas
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="50" height="50" alt="NumPy" />
+        <br />NumPy
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="50" height="50" alt="Matplotlib" />
+        <br />Matplotlib
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Decreasing.png" width="50" height="50" alt="Plotly" />
+        <br />Plotly
+      </td>
+    </tr>
+  </table>
+</div>
 
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="30" height="30" /> MLOps & Deployment
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="50" height="50" alt="Docker" />
+        <br />Docker
+      </td>
+      <td align="center" width="25%">
+        <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="50" height="50" alt="Kubernetes" />
+        <br />Kubernetes
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20with%20Upwards%20Trend.png" width="50" height="50" alt="MLflow" />
+        <br />MLflow
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Balance%20Scale.png" width="50" height="50" alt="W&B" />
+        <br />Weights & Biases
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="30" height="30" /> Core Specializations
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="60" height="60" />
+        <br /><b>Agentic System Planning</b>
+        <br />Multi-Agent Orchestration
+      </td>
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="60" height="60" />
+        <br /><b>Large Language Models</b>
+        <br />Conversational AI
+      </td>
+      <td align="center" width="33.33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/High%20Voltage.png" alt="⚡" width="60" height="60" />
+        <br /><b>MLOps & Deployment</b>
+        <br />Generative AI Systems
+      </td>
+    </tr>
+  </table>
+</div>
+
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📈" width="30" height="30" /> Skills Proficiency Matrix
+
+<div align="center">
+  <table>
+    <tr>
+      <th>🎯 Skill Domain</th>
+      <th>📊 Proficiency Level</th>
+      <th>🏆 Grade</th>
+      <th>📈 Progress</th>
+    </tr>
+    <tr>
+      <td><b>🤖 Agentic System Planning</b></td>
+      <td><img src="https://progress-bar.dev/95?scale=100&title=Expert&width=120&color=00ff00" /></td>
+      <td><b>A+</b></td>
+      <td>🔥🔥🔥🔥🔥</td>
+    </tr>
+    <tr>
+      <td><b>🧠 LLM Engineering</b></td>
+      <td><img src="https://progress-bar.dev/90?scale=100&title=Advanced&width=120&color=4CAF50" /></td>
+      <td><b>A</b></td>
+      <td>🔥🔥🔥🔥⚡</td>
+    </tr>
+    <tr>
+      <td><b>⚡ Deep Learning</b></td>
+      <td><img src="https://progress-bar.dev/88?scale=100&title=Advanced&width=120&color=2196F3" /></td>
+      <td><b>B+</b></td>
+      <td>🔥🔥🔥🔥</td>
+    </tr>
+    <tr>
+      <td><b>🔗 MLOps & Production</b></td>
+      <td><img src="https://progress-bar.dev/85?scale=100&title=Advanced&width=120&color=FF9800" /></td>
+      <td><b>B+</b></td>
+      <td>🔥🔥🔥⚡</td>
+    </tr>
+    <tr>
+      <td><b>📊 Data Science</b></td>
+      <td><img src="https://progress-bar.dev/82?scale=100&title=Advanced&width=120&color=9C27B0" /></td>
+      <td><b>B+</b></td>
+      <td>🔥🔥🔥</td>
+    </tr>
+    <tr>
+      <td><b>🎨 Computer Vision</b></td>
+      <td><img src="https://progress-bar.dev/80?scale=100&title=Proficient&width=120&color=E91E63" /></td>
+      <td><b>B+</b></td>
+      <td>🔥🔥⚡</td>
+    </tr>
+  </table>
+</div>
+
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="📊" width="35" height="35" /> GitHub Analytics & Performance
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Coding+Stats+%26+Performance+Metrics;Open+Source+Contributions;Building+in+Public" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Abdulrahman-Ayman-Farid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Abdulrahman-Ayman-Farid&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Ayman-Farid&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman-Ayman-Farid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area_color=58A6FF&area=true" width="100%" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="30" />
+        <br /><b>GitHub Trophies</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="📈" width="30" />
+        <br /><b>Contribution Stats</b>
+      </td>
+      <td align="center">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="30" />
+        <br /><b>Coding Streak</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ayman-Farid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+</div>
+
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="35" height="35" /> Featured Projects
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Innovative+AI+%26+ML+Solutions;Open+Source+Contributions;Real-World+Applications" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <a href="https://github.com/Abdulrahman-Ayman-Farid/SolScan">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=SolScan&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+          </a>
+        </div>
+        <div align="center">
+          <h3>🔍 <a href="https://github.com/Abdulrahman-Ayman-Farid/SolScan">SolScan</a></h3>
+          <p><b>AI-Powered Document Scanner</b></p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, Computer Vision, OCR<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Document detection, text extraction<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Automated document digitization
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <a href="https://github.com/Abdulrahman-Ayman-Farid/ChatBot-Project">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=ChatBot-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+          </a>
+        </div>
+        <div align="center">
+          <h3>💬 <a href="https://github.com/Abdulrahman-Ayman-Farid/ChatBot-Project">ChatBot Project</a></h3>
+          <p><b>Intelligent Conversational AI</b></p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, NLP, Machine Learning<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> NLP, context understanding<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Enhanced user interaction
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <a href="https://github.com/Abdulrahman-Ayman-Farid/Sentiment-Analysis-Project">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Sentiment-Analysis-Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+          </a>
+        </div>
+        <div align="center">
+          <h3>📈 <a href="https://github.com/Abdulrahman-Ayman-Farid/Sentiment-Analysis-Project">Sentiment Analysis</a></h3>
+          <p><b>Emotion Detection System</b></p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, NLP, Deep Learning<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Sentiment classification, emotion recognition<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Real-time sentiment monitoring
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <a href="https://github.com/Abdulrahman-Ayman-Farid/Image_Recognition_Project">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Image_Recognition_Project&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+          </a>
+        </div>
+        <div align="center">
+          <h3>👁️ <a href="https://github.com/Abdulrahman-Ayman-Farid/Image_Recognition_Project">Image Recognition</a></h3>
+          <p><b>Computer Vision System</b></p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, TensorFlow, CNN<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Object detection, image classification<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Automated visual recognition
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" valign="top">
+        <div align="center">
+          <a href="https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Article_Recommender&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+          </a>
+        </div>
+        <div align="center">
+          <h3>📚 <a href="https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender">Article Recommender</a></h3>
+          <p><b>AI Recommendation Engine</b></p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, ML, Collaborative Filtering<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Content filtering, preference analysis<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Personalized content discovery
+        </div>
+      </td>
+      <td width="50%" valign="top">
+        <div align="center">
+          <a href="https://github.com/Abdulrahman-Ayman-Farid/Emotion_Classifier">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Emotion_Classifier&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=FF6B35&text_color=C9D1D9" />
+          </a>
+        </div>
+        <div align="center">
+          <h3>😊 <a href="https://github.com/Abdulrahman-Ayman-Farid/Emotion_Classifier">Emotion Classifier</a></h3>
+          <p><b>Facial Emotion Recognition</b></p>
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Desktop%20Computer.png" alt="🖥️" width="20" /> <b>Tech:</b> Python, OpenCV, Deep Learning<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📋" width="20" /> <b>Features:</b> Real-time emotion detection<br />
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bullseye.png" alt="🎯" width="20" /> <b>Impact:</b> Human-computer interaction enhancement
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3>🌟 Additional Notable Projects</h3>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/elewashy/AgriChat">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Sheaf%20of%20Rice.png" alt="🌾" width="30" />
+          <br /><b>AgriChat</b>
+        </a>
+        <br />Agricultural AI Assistant
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Abdulrahman-Ayman-Farid/College-Tasks">
+          <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="30" />
+          <br /><b>College Tasks</b>
+        </a>
+        <br />Academic Project Collection
+      </td>
+    </tr>
+  </table>
+</div>
+
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="35" height="35" /> Achievements & Recognition
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Industry+Recognition+%26+Awards;Professional+Milestones;Community+Impact" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <th width="20%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="🏆" width="25" /> Achievement</th>
+      <th width="15%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Calendar.png" alt="📅" width="25" /> Year</th>
+      <th width="30%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Office%20Building.png" alt="🏢" width="25" /> Organization</th>
+      <th width="35%"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="📝" width="25" /> Description</th>
+    </tr>
+    <tr>
+      <td><b>🚀 AI Engineer</b></td>
+      <td><b>2025</b></td>
+      <td>Obelion AI</td>
+      <td>Leading agentic systems development</td>
+    </tr>
+    <tr>
+      <td><b>🤖 Agentic Systems Expert</b></td>
+      <td><b>2025</b></td>
+      <td>AI Community</td>
+      <td>Industry recognition for agent architecture</td>
+    </tr>
+    <tr>
+      <td><b>🥈 2nd Place Winner</b></td>
+      <td><b>2024</b></td>
+      <td>Google Developers - AUC</td>
+      <td>Google Solution Challenge competition</td>
+    </tr>
+    <tr>
+      <td><b>🎤 Technical Speaker</b></td>
+      <td><b>2024-25</b></td>
+      <td>AI Conferences</td>
+      <td>LLM & AI architecture presentations</td>
+    </tr>
+    <tr>
+      <td><b>🏆 Industry Veteran</b></td>
+      <td><b>2021-25</b></td>
+      <td>Technology Sector</td>
+      <td>4+ years of AI innovation experience</td>
+    </tr>
+    <tr>
+      <td><b>⚡ Hackathon Expert</b></td>
+      <td><b>2022-25</b></td>
+      <td>Global & Local Events</td>
+      <td>7+ hackathons across multiple domains</td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ayman-Farid&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Achievement Trophies" />
+</div>
+
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="35" height="35" /> Professional Experience & Leadership
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Current+Role+%26+Responsibilities;Leadership+Experience;Professional+Journey" />
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="60" />
+    <br /><h3>AI Engineer @ Obelion AI</h3>
+  </div>
+  <p><i>"Leading the development of advanced agentic systems and LLM-powered solutions for enterprise clients"</i></p>
+  <ul>
+    <li>🧠 Architecting multi-agent systems</li>
+    <li>🚀 Developing enterprise AI solutions</li>
+    <li>⚡ Leading technical initiatives</li>
+    <li>📊 Driving innovation in AI</li>
+  </ul>
+</td>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="60" />
+    <br /><h3>Agentic Systems Architect</h3>
+  </div>
+  <p><i>"Designing and implementing multi-agent orchestration frameworks and autonomous AI workflows"</i></p>
+  <ul>
+    <li>🔗 Multi-agent orchestration design</li>
+    <li>🤖 Autonomous workflow creation</li>
+    <li>⚙️ System architecture planning</li>
+    <li>🎯 Performance optimization</li>
+  </ul>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="🎤" width="60" />
+    <br /><h3>AI Industry Speaker</h3>
+  </div>
+  <p><i>"Sharing expertise on LLMs, Agent Architecture, and Enterprise AI at leading technology conferences"</i></p>
+  <ul>
+    <li>🎯 Technical presentations</li>
+    <li>📚 Knowledge sharing</li>
+    <li>🌐 Community engagement</li>
+    <li>💡 Thought leadership</li>
+  </ul>
+</td>
+<td width="50%" valign="top">
+  <div align="center">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="60" />
+    <br /><h3>Innovation & Team Leader</h3>
+  </div>
+  <p><i>"Driving cutting-edge research in autonomous agents and next-generation AI systems"</i></p>
+  <ul>
+    <li>🔬 Research & development</li>
+    <li>👥 Team leadership</li>
+    <li>📈 Strategic planning</li>
+    <li>🎨 Creative problem solving</li>
+  </ul>
+</td>
+</tr>
+</table>
+
+<img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="📫" width="35" height="35" /> Let's Connect & Collaborate
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&width=600&height=70&duration=4000&lines=Ready+to+Build+the+Future+of+AI!;Let's+Create+Something+Amazing+Together!;Open+for+Collaboration+%26+Innovation!" />
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="🤝" width="50" />
+        <br /><b>Professional Network</b>
+        <br />Connect for opportunities
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="50" />
+        <br /><b>Collaboration</b>
+        <br />Build innovative solutions
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="50" />
+        <br /><b>Innovation</b>
+        <br />Transform industries with AI
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="🔗" width="25" /> Connect With Me</h3>
+  
+  <a href="https://www.linkedin.com/in/abdulrahman-farid333">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000" alt="LinkedIn" />
+  </a>
+  <a href="https://abdulrahman-ayman-farid.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&color=FF5722&labelColor=000000" alt="Portfolio" />
+  </a>
+  <a href="mailto:abdulrahmanaymanfarid@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=000000" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="🔥" width="25" /> Open For</h3>
+  
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="40" />
+        <br /><b>Enterprise AI/LLM Projects</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="40" />
+        <br /><b>Agentic System Architecture</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="40" />
+        <br /><b>Research Opportunities</b>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="🎤" width="40" />
+        <br /><b>Speaking Engagements</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10" alt="Rainbow Line" />
+  
+  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="🔮" width="30" /> Vision Statement</h2>
+  
+  <p><i><b>"Architecting autonomous intelligence that transforms industries, one agent at a time."</b></i></p>
+  
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&width=500&height=50&duration=4000&lines=Building+Tomorrow's+AI+Today;Innovation+Through+Intelligence;Transforming+Ideas+Into+Reality" />
+</div>
+
+<div align="center">
+  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="25" /> Show Your Support</h3>
+  
+  <p>If you find my work interesting and valuable, please consider:</p>
+  
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="30" />
+        <br /><b>Star my repositories</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" alt="👁️" width="30" />
+        <br /><b>Follow my journey</b>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="🤝" width="30" />
+        <br /><b>Connect & collaborate</b>
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-❤️-red?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
+</div>
+
+<!-- Wave animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10" alt="Rainbow Line" />
+  
+  <p><sub>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="❤️" width="15" /> and <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png" alt="☕" width="15" /> by Abdulrahman Ayman Farid</sub></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Ayman-Farid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Abdulrahman-Ayman-Farid?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/Abdulrahman-Ayman-Farid?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
 </div>
