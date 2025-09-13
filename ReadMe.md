@@ -278,6 +278,6 @@
 
 ### ⭐ If you find my work interesting, please consider giving a star to my repositories!
 
-![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-❤️-red?style=for-the-badge)
+![Thanks](https://img.shields.io/badge/Thanks%20for%20visiting!-❤️-blue?style=for-the-badge)
 
 </div>
