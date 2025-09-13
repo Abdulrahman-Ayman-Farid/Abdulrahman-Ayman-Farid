@@ -149,7 +149,7 @@
         <br />OpenAI
       </td>
       <td align="center" width="16.66%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" width="50" height="50" alt="Anthropic" />
+        <span style="font-size: 50px;">🧠</span>
         <br />Anthropic
       </td>
     </tr>
@@ -546,17 +546,17 @@
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Briefcase.png" alt="💼" width="35" height="35" /> Professional Experience & Leadership
+## <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><span style="font-size: 35px;">💼</span> Professional Experience & Leadership</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Current+Role+%26+Responsibilities;Leadership+Experience;Professional+Journey" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&width=500&height=50&duration=4000&lines=Current+Role+%26+Responsibilities;Leadership+Experience;Professional+Journey&color=00ff88" style="filter: drop-shadow(0 0 8px #00ff88);" />
 </div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="60" />
+    <span style="font-size: 60px;">🤖</span>
     <br /><h3>AI Engineer @ Obelion AI</h3>
   </div>
   <p><i>"Leading the development of advanced agentic systems and LLM-powered solutions for enterprise clients"</i></p>
@@ -569,7 +569,7 @@
 </td>
 <td width="50%" valign="top">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="60" />
+    <span style="font-size: 60px;">🧠</span>
     <br /><h3>Agentic Systems Architect</h3>
   </div>
   <p><i>"Designing and implementing multi-agent orchestration frameworks and autonomous AI workflows"</i></p>
@@ -584,7 +584,7 @@
 <tr>
 <td width="50%" valign="top">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="🎤" width="60" />
+    <span style="font-size: 60px;">🎤</span>
     <br /><h3>AI Industry Speaker</h3>
   </div>
   <p><i>"Sharing expertise on LLMs, Agent Architecture, and Enterprise AI at leading technology conferences"</i></p>
@@ -597,7 +597,7 @@
 </td>
 <td width="50%" valign="top">
   <div align="center">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="60" />
+    <span style="font-size: 60px;">💡</span>
     <br /><h3>Innovation & Team Leader</h3>
   </div>
   <p><i>"Driving cutting-edge research in autonomous agents and next-generation AI systems"</i></p>
@@ -613,27 +613,27 @@
 
 <img width="100%" height="7" alt="" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/gradient.png" />
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Telephone.png" alt="📫" width="35" height="35" /> Let's Connect & Collaborate
+## <span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><span style="font-size: 35px;">📫</span> Let's Connect & Collaborate</span>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&width=600&height=70&duration=4000&lines=Ready+to+Build+the+Future+of+AI!;Let's+Create+Something+Amazing+Together!;Open+for+Collaboration+%26+Innovation!" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&width=600&height=70&duration=4000&lines=Ready+to+Build+the+Future+of+AI!;Let's+Create+Something+Amazing+Together!;Open+for+Collaboration+%26+Innovation!&color=00ff88" style="filter: drop-shadow(0 0 10px #00ff88);" />
 </div>
 
 <div align="center">
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="🤝" width="50" />
+        <span style="font-size: 50px;">🤝</span>
         <br /><b>Professional Network</b>
         <br />Connect for opportunities
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Light%20Bulb.png" alt="💡" width="50" />
+        <span style="font-size: 50px;">💡</span>
         <br /><b>Collaboration</b>
         <br />Build innovative solutions
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="50" />
+        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="🚀" width="50" style="filter: drop-shadow(0 0 5px #00ff88);" />
         <br /><b>Innovation</b>
         <br />Transform industries with AI
       </td>
@@ -642,38 +642,38 @@
 </div>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="🔗" width="25" /> Connect With Me</h3>
+  <h3><span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 25px;">🔗</span> Connect With Me</span></h3>
   
   <a href="https://www.linkedin.com/in/abdulrahman-farid333">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&color=0077B5&labelColor=000000" alt="LinkedIn" style="filter: drop-shadow(0 0 5px #00ff88);" />
   </a>
   <a href="https://abdulrahman-ayman-farid.vercel.app">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&color=FF5722&labelColor=000000" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white&color=FF5722&labelColor=000000" alt="Portfolio" style="filter: drop-shadow(0 0 5px #00ff88);" />
   </a>
   <a href="mailto:abdulrahmanaymanfarid@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=000000" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=D14836&labelColor=000000" alt="Email" style="filter: drop-shadow(0 0 5px #00ff88);" />
   </a>
 </div>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Fire.png" alt="🔥" width="25" /> Open For</h3>
+  <h3><span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="🔥" width="25" style="filter: drop-shadow(0 0 5px #00ff88);" /> Open For</span></h3>
   
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Robot.png" alt="🤖" width="40" />
+        <span style="font-size: 40px;">🤖</span>
         <br /><b>Enterprise AI/LLM Projects</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Brain.png" alt="🧠" width="40" />
+        <span style="font-size: 40px;">🧠</span>
         <br /><b>Agentic System Architecture</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="📚" width="40" />
+        <span style="font-size: 40px;">📚</span>
         <br /><b>Research Opportunities</b>
       </td>
       <td align="center" width="25%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microphone.png" alt="🎤" width="40" />
+        <span style="font-size: 40px;">🎤</span>
         <br /><b>Speaking Engagements</b>
       </td>
     </tr>
@@ -681,51 +681,51 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10" alt="Rainbow Line" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10" alt="Rainbow Line" style="filter: drop-shadow(0 0 8px #00ff88);" />
   
-  <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Crystal%20Ball.png" alt="🔮" width="30" /> Vision Statement</h2>
+  <h2><span style="color: #00ff88; text-shadow: 0 0 10px #00ff88;"><span style="font-size: 30px;">🔮</span> Vision Statement</span></h2>
   
-  <p><i><b>"Architecting autonomous intelligence that transforms industries, one agent at a time."</b></i></p>
+  <p><i><b><span style="color: #00ff88; text-shadow: 0 0 5px #00ff88;">"Architecting autonomous intelligence that transforms industries, one agent at a time."</span></b></i></p>
   
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&width=500&height=50&duration=4000&lines=Building+Tomorrow's+AI+Today;Innovation+Through+Intelligence;Transforming+Ideas+Into+Reality" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=18&width=500&height=50&duration=4000&lines=Building+Tomorrow's+AI+Today;Innovation+Through+Intelligence;Transforming+Ideas+Into+Reality&color=00ff88" style="filter: drop-shadow(0 0 8px #00ff88);" />
 </div>
 
 <div align="center">
-  <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="25" /> Show Your Support</h3>
+  <h3><span style="color: #00ff88; text-shadow: 0 0 8px #00ff88;"><span style="font-size: 25px;">⭐</span> Show Your Support</span></h3>
   
   <p>If you find my work interesting and valuable, please consider:</p>
   
   <table>
     <tr>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Star.png" alt="⭐" width="30" />
+        <span style="font-size: 30px;">⭐</span>
         <br /><b>Star my repositories</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Eye.png" alt="👁️" width="30" />
+        <span style="font-size: 30px;">👁️</span>
         <br /><b>Follow my journey</b>
       </td>
       <td align="center" width="33%">
-        <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Handshake.png" alt="🤝" width="30" />
+        <span style="font-size: 30px;">🤝</span>
         <br /><b>Connect & collaborate</b>
       </td>
     </tr>
   </table>
   
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-❤️-red?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
+  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-❤️-red?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" style="filter: drop-shadow(0 0 5px #00ff88);" />
 </div>
 
-<!-- Wave animation -->
+<!-- Wave animation with neon glow -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" style="filter: drop-shadow(0 0 15px #00ff88);" />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10" alt="Rainbow Line" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="10" alt="Rainbow Line" style="filter: drop-shadow(0 0 8px #00ff88);" />
   
-  <p><sub>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="❤️" width="15" /> and <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coffee.png" alt="☕" width="15" /> by Abdulrahman Ayman Farid</sub></p>
+  <p><sub>Made with <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="❤️" width="15" style="filter: drop-shadow(0 0 3px #ff0080);" /> and <span style="font-size: 15px;">☕</span> by <span style="color: #00ff88; text-shadow: 0 0 5px #00ff88;">Abdulrahman Ayman Farid</span></sub></p>
   
-  <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Ayman-Farid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Abdulrahman-Ayman-Farid?label=Followers&style=social" alt="GitHub Followers" />
-  <img src="https://img.shields.io/github/stars/Abdulrahman-Ayman-Farid?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" />
+  <img src="https://komarev.com/ghpvc/?username=Abdulrahman-Ayman-Farid&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" style="filter: drop-shadow(0 0 3px #00ff88);" />
+  <img src="https://img.shields.io/github/followers/Abdulrahman-Ayman-Farid?label=Followers&style=social" alt="GitHub Followers" style="filter: drop-shadow(0 0 3px #00ff88);" />
+  <img src="https://img.shields.io/github/stars/Abdulrahman-Ayman-Farid?affiliations=OWNER%2CCOLLABORATOR&style=social" alt="GitHub Stars" style="filter: drop-shadow(0 0 3px #00ff88);" />
 </div>
