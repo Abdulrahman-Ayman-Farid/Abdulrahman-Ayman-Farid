@@ -265,43 +265,36 @@
   <table>
     <tr>
       <th>🎯 Skill Domain</th>
-      <th>📊 Proficiency Level</th>
       <th>🏆 Grade</th>
       <th>📈 Progress</th>
     </tr>
     <tr>
       <td><b>🤖 Agentic System Planning</b></td>
-      <td><img src="https://progress-bar.dev/95?scale=100&title=Expert&width=120&color=00ff00" /></td>
       <td><b>A+</b></td>
       <td>🔥🔥🔥🔥🔥</td>
     </tr>
     <tr>
       <td><b>🧠 LLM Engineering</b></td>
-      <td><img src="https://progress-bar.dev/90?scale=100&title=Advanced&width=120&color=4CAF50" /></td>
       <td><b>A</b></td>
       <td>🔥🔥🔥🔥⚡</td>
     </tr>
     <tr>
       <td><b>⚡ Deep Learning</b></td>
-      <td><img src="https://progress-bar.dev/88?scale=100&title=Advanced&width=120&color=2196F3" /></td>
       <td><b>B+</b></td>
       <td>🔥🔥🔥🔥</td>
     </tr>
     <tr>
       <td><b>🔗 MLOps & Production</b></td>
-      <td><img src="https://progress-bar.dev/85?scale=100&title=Advanced&width=120&color=FF9800" /></td>
       <td><b>B+</b></td>
       <td>🔥🔥🔥⚡</td>
     </tr>
     <tr>
       <td><b>📊 Data Science</b></td>
-      <td><img src="https://progress-bar.dev/82?scale=100&title=Advanced&width=120&color=9C27B0" /></td>
       <td><b>B+</b></td>
       <td>🔥🔥🔥</td>
     </tr>
     <tr>
       <td><b>🎨 Computer Vision</b></td>
-      <td><img src="https://progress-bar.dev/80?scale=100&title=Proficient&width=120&color=E91E63" /></td>
       <td><b>B+</b></td>
       <td>🔥🔥⚡</td>
     </tr>
