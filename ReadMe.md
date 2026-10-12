@@ -39,21 +39,21 @@ What I care about is the part that makes AI products trustworthy, not just impre
   <tr>
     <td width="50%" valign="top">
       <b>🤖 OBJECTIVE 01 · Agentic systems</b><br/>
-      Agents and deep agents with tool use, planning, memory, and orchestration that hold up under real workloads.
+      Stateful agents and deep agents built on LangGraph, with tool use, planning, memory, and orchestration that hold up under real workloads.
     </td>
     <td width="50%" valign="top">
       <b>📚 OBJECTIVE 02 · Production RAG</b><br/>
-      Retrieval pipelines with hybrid search, reranking, and context engineering for grounded answers.
+      Retrieval pipelines on Qdrant and pgvector with hybrid search, reranking, and context engineering for grounded answers.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
       <b>🧱 OBJECTIVE 03 · Sandboxed execution</b><br/>
-      Isolated, containerized environments for running agent-generated code and tools safely.
+      Isolated runners — E2B, Daytona, and the Docker Engine SDK — for executing agent-generated code and tools safely.
     </td>
     <td width="50%" valign="top">
       <b>📈 OBJECTIVE 04 · Evaluation &amp; observability</b><br/>
-      Treating evals and tracing as part of the product, not an afterthought.
+      Langfuse tracing and Ragas / DeepEval harnesses treated as part of the product, not an afterthought.
     </td>
   </tr>
 </table>
@@ -64,12 +64,14 @@ What I care about is the part that makes AI products trustworthy, not just impre
 
 | Subsystem | Modules |
 |:--|:--|
-| **🧠 AI Core**<br/>LLMs & Model APIs | ![OpenAI](https://img.shields.io/badge/OpenAI-1E1B4B?style=flat-square&logo=openai&logoColor=67E8F9) ![Anthropic](https://img.shields.io/badge/Anthropic-1E1B4B?style=flat-square&logo=anthropic&logoColor=67E8F9) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-1E1B4B?style=flat-square&logo=googlegemini&logoColor=67E8F9) ![Open-Source LLMs](https://img.shields.io/badge/Open--Source_LLMs-1E1B4B?style=flat-square&logo=huggingface&logoColor=67E8F9) ![Streaming](https://img.shields.io/badge/Streaming-1E1B4B?style=flat-square) ![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-1E1B4B?style=flat-square) ![Model Routing](https://img.shields.io/badge/Model_Routing-1E1B4B?style=flat-square) ![Prompt & Context Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-1E1B4B?style=flat-square) |
-| **🤖 Autopilot**<br/>Agents | ![LangChain](https://img.shields.io/badge/LangChain-0C4A6E?style=flat-square&logo=langchain&logoColor=67E8F9) ![Deep Agents](https://img.shields.io/badge/Deep_Agents-0C4A6E?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-0C4A6E?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0C4A6E?style=flat-square) ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-0C4A6E?style=flat-square) ![Planning](https://img.shields.io/badge/Planning-0C4A6E?style=flat-square) ![Memory](https://img.shields.io/badge/Memory-0C4A6E?style=flat-square) |
-| **📡 Nav & Comms**<br/>RAG | ![Embeddings](https://img.shields.io/badge/Embeddings-134E4A?style=flat-square) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-134E4A?style=flat-square) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-134E4A?style=flat-square) ![Reranking](https://img.shields.io/badge/Reranking-134E4A?style=flat-square) ![Context Engineering](https://img.shields.io/badge/Context_Engineering-134E4A?style=flat-square) ![Grounded Generation](https://img.shields.io/badge/Grounded_Generation-134E4A?style=flat-square) |
-| **🔭 Telemetry**<br/>Evaluation & Observability | ![LLM Evals](https://img.shields.io/badge/LLM_Evals-4C1D95?style=flat-square) ![Tracing](https://img.shields.io/badge/Tracing-4C1D95?style=flat-square) ![Monitoring](https://img.shields.io/badge/Monitoring-4C1D95?style=flat-square) ![Reliability & Guardrails](https://img.shields.io/badge/Reliability_%26_Guardrails-4C1D95?style=flat-square) |
-| **⚙️ Engine Room**<br/>Backend | ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=67E8F9) ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=67E8F9) ![Pydantic](https://img.shields.io/badge/Pydantic-1E293B?style=flat-square&logo=pydantic&logoColor=67E8F9) ![Supabase](https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=67E8F9) ![Async Services](https://img.shields.io/badge/Async_Services-1E293B?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square) ![NoSQL](https://img.shields.io/badge/NoSQL-1E293B?style=flat-square) |
-| **🛡️ Containment**<br/>Deployment & Sandboxing | ![Docker](https://img.shields.io/badge/Docker-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![Sandboxed Execution](https://img.shields.io/badge/Sandboxed_Execution-164E63?style=flat-square) ![Reproducible Environments](https://img.shields.io/badge/Reproducible_Environments-164E63?style=flat-square) |
+| **🧠 AI Core**<br/>LLMs & Model APIs | ![OpenAI](https://img.shields.io/badge/OpenAI-1E1B4B?style=flat-square&logo=openai&logoColor=67E8F9) ![Anthropic](https://img.shields.io/badge/Anthropic-1E1B4B?style=flat-square&logo=anthropic&logoColor=67E8F9) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-1E1B4B?style=flat-square&logo=googlegemini&logoColor=67E8F9) ![Open-Source LLMs](https://img.shields.io/badge/Open--Source_LLMs-1E1B4B?style=flat-square&logo=huggingface&logoColor=67E8F9) ![Streaming](https://img.shields.io/badge/Streaming-1E1B4B?style=flat-square) ![Model Routing](https://img.shields.io/badge/Model_Routing-1E1B4B?style=flat-square) ![Prompt & Context Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-1E1B4B?style=flat-square) |
+| **🧾 Structured Outputs**<br/>Schema enforcement | ![Pydantic Schemas](https://img.shields.io/badge/Pydantic_Schemas-3B0764?style=flat-square&logo=pydantic&logoColor=67E8F9) ![Instructor](https://img.shields.io/badge/Instructor-3B0764?style=flat-square) ![Native JSON Schema Enforcement](https://img.shields.io/badge/Native_JSON_Schema_Enforcement-3B0764?style=flat-square) |
+| **🤖 Autopilot**<br/>Agent Orchestration | ![LangGraph](https://img.shields.io/badge/LangGraph_(stateful_graphs)-0C4A6E?style=flat-square&logo=langchain&logoColor=67E8F9) ![LangChain](https://img.shields.io/badge/LangChain-0C4A6E?style=flat-square&logo=langchain&logoColor=67E8F9) ![Deep Agents](https://img.shields.io/badge/Deep_Agents-0C4A6E?style=flat-square) ![State Machines](https://img.shields.io/badge/State_Machines-0C4A6E?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-0C4A6E?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0C4A6E?style=flat-square) ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-0C4A6E?style=flat-square) ![Planning](https://img.shields.io/badge/Planning-0C4A6E?style=flat-square) ![Memory](https://img.shields.io/badge/Memory-0C4A6E?style=flat-square) |
+| **📡 Nav & Comms**<br/>RAG | ![Embeddings](https://img.shields.io/badge/Embeddings-134E4A?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-134E4A?style=flat-square&logo=qdrant&logoColor=67E8F9) ![pgvector](https://img.shields.io/badge/pgvector-134E4A?style=flat-square&logo=postgresql&logoColor=67E8F9) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-134E4A?style=flat-square) ![Reranking](https://img.shields.io/badge/Reranking-134E4A?style=flat-square) ![Context Engineering](https://img.shields.io/badge/Context_Engineering-134E4A?style=flat-square) ![Grounded Generation](https://img.shields.io/badge/Grounded_Generation-134E4A?style=flat-square) |
+| **🗄️ Data Bay**<br/>Data & Storage | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E3A5F?style=flat-square&logo=postgresql&logoColor=67E8F9) ![pgvector](https://img.shields.io/badge/pgvector-1E3A5F?style=flat-square&logo=postgresql&logoColor=67E8F9) ![Qdrant](https://img.shields.io/badge/Qdrant-1E3A5F?style=flat-square&logo=qdrant&logoColor=67E8F9) ![Redis](https://img.shields.io/badge/Redis-1E3A5F?style=flat-square&logo=redis&logoColor=67E8F9) ![Supabase](https://img.shields.io/badge/Supabase-1E3A5F?style=flat-square&logo=supabase&logoColor=67E8F9) |
+| **🔭 Telemetry**<br/>Evaluation & Observability | ![Langfuse](https://img.shields.io/badge/Langfuse-4C1D95?style=flat-square) ![Arize Phoenix](https://img.shields.io/badge/Arize_Phoenix-4C1D95?style=flat-square) ![LangSmith](https://img.shields.io/badge/LangSmith-4C1D95?style=flat-square) ![Ragas](https://img.shields.io/badge/Ragas-4C1D95?style=flat-square) ![DeepEval](https://img.shields.io/badge/DeepEval-4C1D95?style=flat-square) ![Reliability & Guardrails](https://img.shields.io/badge/Reliability_%26_Guardrails-4C1D95?style=flat-square) |
+| **⚙️ Engine Room**<br/>Backend | ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=67E8F9) ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=67E8F9) ![Pydantic](https://img.shields.io/badge/Pydantic-1E293B?style=flat-square&logo=pydantic&logoColor=67E8F9) ![Async Services](https://img.shields.io/badge/Async_Services-1E293B?style=flat-square) |
+| **🛡️ Containment**<br/>Deployment & Sandboxing | ![Docker Engine SDK](https://img.shields.io/badge/Docker_Engine_SDK-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![E2B](https://img.shields.io/badge/E2B-164E63?style=flat-square) ![Daytona](https://img.shields.io/badge/Daytona-164E63?style=flat-square) ![Reproducible Environments](https://img.shields.io/badge/Reproducible_Environments-164E63?style=flat-square) |
 | **☁️ Launchpad**<br/>Cloud & DevOps | ![AWS](https://img.shields.io/badge/AWS-312E81?style=flat-square&logo=amazonaws&logoColor=67E8F9) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-312E81?style=flat-square&logo=githubactions&logoColor=67E8F9) ![CI/CD](https://img.shields.io/badge/CI%2FCD-312E81?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes_(concepts)-312E81?style=flat-square&logo=kubernetes&logoColor=67E8F9) ![Serverless](https://img.shields.io/badge/Serverless_Patterns-312E81?style=flat-square) |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
@@ -79,11 +81,14 @@ What I care about is the part that makes AI products trustworthy, not just impre
 | Capability | What it looks like in practice |
 |---|---|
 | **AI product delivery** | Taking an LLM capability from prototype to a reliable feature: scoping, UX, guardrails, instrumentation, and iterative releases |
-| **Agent orchestration** | Single agents and multi-agent systems with tool use, planning, memory, and clear handoffs — built to be debuggable, not magical |
-| **Sandboxed execution** | Isolated, containerized runtimes so agents can run code and tools safely, with reproducible environments |
-| **RAG pipelines** | Ingestion → embeddings → hybrid retrieval → reranking → context assembly → grounded, citable generation |
+| **Agent orchestration** | Stateful, branching, and cyclical agent graphs in **LangGraph** — single agents and multi-agent systems with tool use, planning, memory, and clear handoffs, built to be debuggable, not magical |
+| **Structured outputs** | Typed model responses enforced with **Pydantic schemas**, **Instructor**, and native JSON-schema enforcement from the model APIs — no regex-parsing of free text |
+| **Sandboxed execution** | Isolated runners on **E2B** and **Daytona**, with the **Docker Engine SDK** for programmatic container lifecycle and reproducible environments |
+| **RAG pipelines** | Ingestion → embeddings → hybrid retrieval on **Qdrant** / **pgvector** → reranking → context assembly → grounded, citable generation |
+| **Data & storage** | **PostgreSQL** (with **pgvector**) for relational + vector data, **Qdrant** as a dedicated vector engine, **Redis** for caching and short-lived state |
 | **Dockerized services** | FastAPI-based AI services packaged with Docker / Compose and shipped through CI/CD with GitHub Actions |
-| **Production reliability** | Streaming, structured outputs, model routing, evals, tracing, and cost/latency monitoring to keep systems predictable |
+| **Evaluation & observability** | **Langfuse** traces plus **Ragas** and **DeepEval** harnesses for retrieval and answer quality, with **Arize Phoenix** / **LangSmith** for debugging runs |
+| **Production reliability** | Streaming, model routing, guardrails, and cost/latency monitoring to keep systems predictable |
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
@@ -91,12 +96,12 @@ What I care about is the part that makes AI products trustworthy, not just impre
 
 Beyond single-prompt chatbots, I build agents that can plan, delegate, remember, and act inside safe boundaries:
 
-- **Deep agents** — long-horizon agents that break work into explicit plans, track progress, and spawn specialized sub-agents with isolated context for focused tasks
-- **Context & memory management** — offloading large artifacts to files and stores, summarizing history, and retrieving only what the current step needs
-- **Tool use & MCP** — typed tool interfaces and Model Context Protocol servers that give agents real capabilities with clear permission boundaries
-- **Sandboxed agent runtimes** — containerized environments where agents execute code, run commands, and work on repositories without touching production systems
+- **Deep agents** — long-horizon agents on **LangGraph** that break work into explicit plans, track progress, and spawn specialized sub-agents with isolated context for focused tasks
+- **Context & memory management** — offloading large artifacts to files and stores (**PostgreSQL**, **Redis**), summarizing history, and retrieving only what the current step needs
+- **Tool use & MCP** — typed tool interfaces (**Pydantic** schemas) and Model Context Protocol servers that give agents real capabilities with clear permission boundaries
+- **Sandboxed agent runtimes** — **E2B** and **Daytona** environments, plus containers driven through the **Docker Engine SDK**, where agents execute code, run commands, and work on repositories without touching production systems
 - **Agentic coding & DevOps workflows** — coding and infrastructure agents with safe Git operations, review gates, and human-in-the-loop approval on risky actions
-- **Evaluation & tracing** — replayable traces and task-level evals so agent behavior can be measured, compared, and improved between releases
+- **Evaluation & tracing** — replayable **Langfuse** traces and task-level evals (**Ragas**, **DeepEval**) so agent behavior can be measured, compared, and improved between releases
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
