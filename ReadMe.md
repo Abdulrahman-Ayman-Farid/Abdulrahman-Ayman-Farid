@@ -1,151 +1,163 @@
+<!--
+  SPACE-TECH THEME
+  Palette: void #03040C · deep navy #0F172A · indigo #6366F1 · cyan #22D3EE · violet #A78BFA
+  Animated visuals live in ./assets (header.svg, divider.svg, footer.svg) — GitHub plays their
+  CSS/SMIL animations when they are embedded with <img>, so keep them as <img> tags.
+-->
+
 <div align="center">
 
-<!-- Header -->
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Abdulrahman+%F0%9F%91%8B;AI+Engineer+%40+Obelion+AI;LLM+%26+Agentic+Systems+Specialist" alt="Typing SVG" />
+<img src="./assets/header.svg" width="100%" alt="Abdulrahman — AI Product Engineer. Animated space-tech banner." />
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-farid333)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulrahman-ayman-farid.vercel.app)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanaymanfarid@gmail.com)
+![Role](https://img.shields.io/badge/ROLE-AI_PRODUCT_ENGINEER-6366F1?style=flat-square&labelColor=0F172A)
+![Experience](https://img.shields.io/badge/EXPERIENCE-~3_YEARS-22D3EE?style=flat-square&labelColor=0F172A)
+![Focus](https://img.shields.io/badge/FOCUS-AGENTIC_AI_·_RAG-A78BFA?style=flat-square&labelColor=0F172A)
+![Systems](https://img.shields.io/badge/SYSTEMS-ONLINE-34D399?style=flat-square&labelColor=0F172A)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdulrahman-Ayman-Farid&color=58A6FF&style=flat-square)
-![Followers](https://img.shields.io/github/followers/Abdulrahman-Ayman-Farid?style=flat-square&color=58A6FF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/abdulrahman-ayman-farid/)
+[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:abdulrahmanaymanfarid@gmail.com)
 
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🧑‍💻 About Me
+## 🛰️ Mission Briefing
 
-**AI Engineer at [Obelion AI](https://obelion.ai)** specializing in agentic systems, LLM orchestration, and production ML pipelines. I architect autonomous AI solutions that transform how enterprises operate.
+I'm an **AI Product Engineer** with **~3 years of hands-on experience** across the AI stack. I started by building AI features; today I design and ship **production-ready AI products** — from agent architecture and retrieval pipelines to sandboxed execution, deployment, and observability.
 
-- 🏆 **2nd Place** — Google Solution Challenge @ AUC 2024  
-- 🎤 **Speaker** at AI conferences on LLM architecture & multi-agent systems  
-- 🚀 **4+ years** building ML/DL systems in production  
-- 🤖 **7+ hackathons** competed across NLP, CV, and generative AI domains
+What I care about is the part that makes AI products trustworthy, not just impressive in a demo:
 
----
+> **`RELIABILITY`** · **`LATENCY`** · **`COST`** · **`SAFETY`** · **`USER EXPERIENCE`** · **`ITERATIVE DELIVERY`**
 
-## 🛠️ Tech Stack
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+## 🎯 Mission Objectives
 
-**AI/ML Frameworks**  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗_Transformers-FFD21E?style=flat-square)
-![LangChain](https://img.shields.io/badge/🦜_LangChain-1C3C3C?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🤖 OBJECTIVE 01 · Agentic systems</b><br/>
+      Agents and deep agents with tool use, planning, memory, and orchestration that hold up under real workloads.
+    </td>
+    <td width="50%" valign="top">
+      <b>📚 OBJECTIVE 02 · Production RAG</b><br/>
+      Retrieval pipelines with hybrid search, reranking, and context engineering for grounded answers.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <b>🧱 OBJECTIVE 03 · Sandboxed execution</b><br/>
+      Isolated, containerized environments for running agent-generated code and tools safely.
+    </td>
+    <td width="50%" valign="top">
+      <b>📈 OBJECTIVE 04 · Evaluation &amp; observability</b><br/>
+      Treating evals and tracing as part of the product, not an afterthought.
+    </td>
+  </tr>
+</table>
 
-**Agentic & RAG**  
-![CrewAI](https://img.shields.io/badge/CrewAI-FF6B6B?style=flat-square)
-![AutoGen](https://img.shields.io/badge/AutoGen-4B8BBE?style=flat-square)
-![LlamaIndex](https://img.shields.io/badge/🦙_LlamaIndex-8B5CF6?style=flat-square)
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square&logo=pinecone&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-FF6F61?style=flat-square)
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-**MLOps & Infrastructure**  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights_&_Biases-FFBE00?style=flat-square&logo=weightsandbiases&logoColor=black)
+## 🧰 Onboard Systems
 
----
+| Subsystem | Modules |
+|:--|:--|
+| **🧠 AI Core**<br/>LLMs & Model APIs | ![OpenAI](https://img.shields.io/badge/OpenAI-1E1B4B?style=flat-square&logo=openai&logoColor=67E8F9) ![Anthropic](https://img.shields.io/badge/Anthropic-1E1B4B?style=flat-square&logo=anthropic&logoColor=67E8F9) ![Google Gemini](https://img.shields.io/badge/Google_Gemini-1E1B4B?style=flat-square&logo=googlegemini&logoColor=67E8F9) ![Open-Source LLMs](https://img.shields.io/badge/Open--Source_LLMs-1E1B4B?style=flat-square&logo=huggingface&logoColor=67E8F9) ![Streaming](https://img.shields.io/badge/Streaming-1E1B4B?style=flat-square) ![Structured Outputs](https://img.shields.io/badge/Structured_Outputs-1E1B4B?style=flat-square) ![Model Routing](https://img.shields.io/badge/Model_Routing-1E1B4B?style=flat-square) ![Prompt & Context Engineering](https://img.shields.io/badge/Prompt_%26_Context_Engineering-1E1B4B?style=flat-square) |
+| **🤖 Autopilot**<br/>Agents | ![LangChain](https://img.shields.io/badge/LangChain-0C4A6E?style=flat-square&logo=langchain&logoColor=67E8F9) ![Deep Agents](https://img.shields.io/badge/Deep_Agents-0C4A6E?style=flat-square) ![Tool Calling](https://img.shields.io/badge/Tool_Calling-0C4A6E?style=flat-square) ![MCP](https://img.shields.io/badge/MCP-0C4A6E?style=flat-square) ![Multi-Agent Orchestration](https://img.shields.io/badge/Multi--Agent_Orchestration-0C4A6E?style=flat-square) ![Planning](https://img.shields.io/badge/Planning-0C4A6E?style=flat-square) ![Memory](https://img.shields.io/badge/Memory-0C4A6E?style=flat-square) |
+| **📡 Nav & Comms**<br/>RAG | ![Embeddings](https://img.shields.io/badge/Embeddings-134E4A?style=flat-square) ![Vector Databases](https://img.shields.io/badge/Vector_Databases-134E4A?style=flat-square) ![Hybrid Search](https://img.shields.io/badge/Hybrid_Search-134E4A?style=flat-square) ![Reranking](https://img.shields.io/badge/Reranking-134E4A?style=flat-square) ![Context Engineering](https://img.shields.io/badge/Context_Engineering-134E4A?style=flat-square) ![Grounded Generation](https://img.shields.io/badge/Grounded_Generation-134E4A?style=flat-square) |
+| **🔭 Telemetry**<br/>Evaluation & Observability | ![LLM Evals](https://img.shields.io/badge/LLM_Evals-4C1D95?style=flat-square) ![Tracing](https://img.shields.io/badge/Tracing-4C1D95?style=flat-square) ![Monitoring](https://img.shields.io/badge/Monitoring-4C1D95?style=flat-square) ![Reliability & Guardrails](https://img.shields.io/badge/Reliability_%26_Guardrails-4C1D95?style=flat-square) |
+| **⚙️ Engine Room**<br/>Backend | ![Python](https://img.shields.io/badge/Python-1E293B?style=flat-square&logo=python&logoColor=67E8F9) ![FastAPI](https://img.shields.io/badge/FastAPI-1E293B?style=flat-square&logo=fastapi&logoColor=67E8F9) ![Pydantic](https://img.shields.io/badge/Pydantic-1E293B?style=flat-square&logo=pydantic&logoColor=67E8F9) ![Supabase](https://img.shields.io/badge/Supabase-1E293B?style=flat-square&logo=supabase&logoColor=67E8F9) ![Async Services](https://img.shields.io/badge/Async_Services-1E293B?style=flat-square) ![SQL](https://img.shields.io/badge/SQL-1E293B?style=flat-square) ![NoSQL](https://img.shields.io/badge/NoSQL-1E293B?style=flat-square) |
+| **🛡️ Containment**<br/>Deployment & Sandboxing | ![Docker](https://img.shields.io/badge/Docker-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![Sandboxed Execution](https://img.shields.io/badge/Sandboxed_Execution-164E63?style=flat-square) ![Reproducible Environments](https://img.shields.io/badge/Reproducible_Environments-164E63?style=flat-square) |
+| **☁️ Launchpad**<br/>Cloud & DevOps | ![AWS](https://img.shields.io/badge/AWS-312E81?style=flat-square&logo=amazonaws&logoColor=67E8F9) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-312E81?style=flat-square&logo=githubactions&logoColor=67E8F9) ![CI/CD](https://img.shields.io/badge/CI%2FCD-312E81?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes_(concepts)-312E81?style=flat-square&logo=kubernetes&logoColor=67E8F9) ![Serverless](https://img.shields.io/badge/Serverless_Patterns-312E81?style=flat-square) |
 
-## 📊 GitHub Stats
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## ⚙️ Payload Capabilities
+
+| Capability | What it looks like in practice |
+|---|---|
+| **AI product delivery** | Taking an LLM capability from prototype to a reliable feature: scoping, UX, guardrails, instrumentation, and iterative releases |
+| **Agent orchestration** | Single agents and multi-agent systems with tool use, planning, memory, and clear handoffs — built to be debuggable, not magical |
+| **Sandboxed execution** | Isolated, containerized runtimes so agents can run code and tools safely, with reproducible environments |
+| **RAG pipelines** | Ingestion → embeddings → hybrid retrieval → reranking → context assembly → grounded, citable generation |
+| **Dockerized services** | FastAPI-based AI services packaged with Docker / Compose and shipped through CI/CD with GitHub Actions |
+| **Production reliability** | Streaming, structured outputs, model routing, evals, tracing, and cost/latency monitoring to keep systems predictable |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🧠 Autonomous Systems
+
+Beyond single-prompt chatbots, I build agents that can plan, delegate, remember, and act inside safe boundaries:
+
+- **Deep agents** — long-horizon agents that break work into explicit plans, track progress, and spawn specialized sub-agents with isolated context for focused tasks
+- **Context & memory management** — offloading large artifacts to files and stores, summarizing history, and retrieving only what the current step needs
+- **Tool use & MCP** — typed tool interfaces and Model Context Protocol servers that give agents real capabilities with clear permission boundaries
+- **Sandboxed agent runtimes** — containerized environments where agents execute code, run commands, and work on repositories without touching production systems
+- **Agentic coding & DevOps workflows** — coding and infrastructure agents with safe Git operations, review gates, and human-in-the-loop approval on risky actions
+- **Evaluation & tracing** — replayable traces and task-level evals so agent behavior can be measured, compared, and improved between releases
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🚀 Mission Log
+
+### 🛸 MISSION 01 — MerchCraft AI · Merch Mockups & Print Studio
+*Photorealistic 3D merchandise mockups, AI commercial photoshoots, and print-ready production files.*
+
+- **Problem:** flat "sticker" mockups look fake, pre-press files arrive unformatted, and lifestyle photoshoots cost thousands per drop
+- **Textile physics engine:** displacement mapping bends graphics across fabric folds, with cotton-knit texture, crease shading, and ink bleed so designs look truly printed
+- **AI photoshoot studio:** commercial lookbook scenes generated and edited with natural-language prompts using Google Gemini
+- **Search-grounded trend radar:** live streetwear trends and colorways with verified web sources, applied to the canvas in one click
+- **Pre-press pipeline:** transparent 300 DPI masters at true physical size with bleed margins, crop marks, CMYK gamut simulation, and downloadable tech packs
+
+### 🛰️ MISSION 02 — Loqta · The Smart Way to Shop
+*A two-sided marketplace that rescues near-expiry premium grocery stock.*
+
+- **Value:** shoppers save up to 70% while distributors recover value and cut food waste
+- **Client platform:** curated deals with live expiration gauges, time-limited carts, and multi-step checkout
+- **Vendor portal:** real-time dashboard for listings, sales, pending orders, and inventory and discount management
+- **Auth & access:** Google sign-in through Supabase with role-based access (customer vs. vendor) and protected route guards
+
+### 🎬 MISSION 03 — StoryBoard AI · Turn Your Words into Worlds
+*AI pre-visualization for directors, screenwriters, and creators.*
+
+- **Script analysis:** Gemini 2.5 Flash parses sluglines, actions, and transitions, then turns scene descriptions into detailed photography prompts (lighting, camera angles, lenses)
+- **Cinematic rendering:** Imagen generates photorealistic or stylized frames in 16:9, 21:9, 4:3, and 1:1, from 1K drafts to 4K production
+- **Director's suite:** visual prompt editor with "AI Enhance", drag-and-drop scene reordering, project snapshots with version history, and PDF shot-list export
+- **Result:** cuts the path from script to storyboard from days to minutes
+
+<!--
+  OPTIONAL — MISSION TELEMETRY (live GitHub stats in the same palette).
+  1) Replace YOUR_GITHUB_USERNAME below, 2) delete the opening and closing comment markers.
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+## 📊 Mission Telemetry
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Abdulrahman-Ayman-Farid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdulrahman-Ayman-Farid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=6" />
+<img height="170" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true&bg_color=0B1026&title_color=22D3EE&icon_color=A78BFA&text_color=C7D2FE&ring_color=6366F1" />
+<img height="170" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true&bg_color=0B1026&title_color=22D3EE&text_color=C7D2FE" />
 
-<br/>
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abdulrahman-Ayman-Farid&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF6B35&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E)
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Abdulrahman-Ayman-Farid&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FF6B35&area_color=58A6FF&area=true)
-
-<br/>
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Abdulrahman-Ayman-Farid&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7)
+<img width="100%" alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0B1026&color=22D3EE&line=6366F1&point=FFFFFF&area=true&hide_border=true" />
 
 </div>
+-->
 
----
+<img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🚀 Featured Projects
+## 📫 Open Comms Channel
 
-<div align="center">
-
-<a href="https://github.com/Abdulrahman-Ayman-Farid/SolScan">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=SolScan&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Abdulrahman-Ayman-Farid/ChatBot-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=ChatBot-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/Abdulrahman-Ayman-Farid/Sentiment-Analysis-Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Sentiment-Analysis-Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Abdulrahman-Ayman-Farid/Image_Recognition_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Image_Recognition_Project&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-<a href="https://github.com/Abdulrahman-Ayman-Farid/Article_Recommender">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Article_Recommender&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/Abdulrahman-Ayman-Farid/Emotion_Classifier">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdulrahman-Ayman-Farid&repo=Emotion_Classifier&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-
-</div>
-
----
-
-## 🏆 Achievements
-
-| 🏅 Recognition | 📅 Year | 🏢 Organization |
-|---------------|---------|-----------------|
-| 🥈 **2nd Place Winner** | 2024 | Google Solution Challenge @ AUC |
-| 🤖 **AI Engineer** | 2025 | Obelion AI |
-| 🎤 **Technical Speaker** | 2024-25 | AI Conferences & Meetups |
-| ⚡ **Hackathon Veteran** | 2022-25 | 7+ Events (Global & Local) |
-
----
-
-## 🌱 Currently Exploring
-
-- 🧠 **Multi-Agent Orchestration** — Building complex agent workflows with CrewAI & AutoGen  
-- 📄 **Advanced RAG Pipelines** — Hybrid search, re-ranking, and context optimization  
-- ⚡ **LLM Inference Optimization** — Quantization, speculative decoding, and edge deployment
-
----
-
-## 📫 Let's Connect
+I'm happy to talk about AI product engineering, agentic systems, and production RAG.
 
 <div align="center">
 
-**Open for collaborations on AI/LLM projects, speaking opportunities, and research partnerships.**
-
-[![LinkedIn](https://img.shields.io/badge/Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-farid333)
-[![Portfolio](https://img.shields.io/badge/View_My_Work-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abdulrahman-ayman-farid.vercel.app)
-[![Email](https://img.shields.io/badge/Send_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdulrahmanaymanfarid@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ayman-farid/)
+[![Email](https://img.shields.io/badge/Send_an_Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0F172A)](mailto:abdulrahmanaymanfarid@gmail.com)
 
 <br/>
 
-> *"Architecting autonomous intelligence that transforms industries, one agent at a time."*
-
-<br/>
-
-![Wave](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
+<img src="./assets/footer.svg" width="100%" alt="End of transmission" />
 
 </div>
