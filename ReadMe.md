@@ -1,9 +1,17 @@
 <!--
-  SPACE-TECH THEME
+  SPACE-TECH THEME · INTERACTIVE EDITION
   Palette: void #03040C · deep navy #0F172A · indigo #6366F1 · cyan #22D3EE · violet #A78BFA
-  Animated visuals live in ./assets (header.svg, divider.svg, footer.svg) — GitHub plays their
-  CSS/SMIL animations when they are embedded with <img>, so keep them as <img> tags.
+
+  Animated visuals live in ./assets (header.svg, divider.svg, footer.svg, transmission.svg, orbit.svg).
+  GitHub plays their CSS/SMIL animations when they are embedded with <img>, so keep them as <img> tags.
+
+  GitHub strips JavaScript, so "interactive" here means:
+    • <details>/<summary> collapsible panels   • #anchor navigation between sections
+    • animated SVGs                            • Mermaid diagrams (zoomable on GitHub)
+  Tip: leave a blank line after every <summary> so Markdown inside <details> renders.
 -->
+
+<a id="mission-control"></a>
 
 <div align="center">
 
@@ -19,9 +27,41 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/abdulrahman-ayman-farid/)
 [![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:abdulrahmanaymanfarid@gmail.com)
 
+<br/>
+
+<img src="./assets/transmission.svg" width="100%" alt="Incoming transmission: initializing flight deck, loading agent core, sandbox containment OK. Welcome aboard, explorer." />
+
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt="" />
+
+## 🧭 Mission Control
+
+<div align="center">
+
+**Pick a heading, commander. Every button is live.**
+
+[![01](https://img.shields.io/badge/01-BRIEFING-6366F1?style=flat-square&labelColor=0F172A)](#briefing)
+[![02](https://img.shields.io/badge/02-OBJECTIVES-6366F1?style=flat-square&labelColor=0F172A)](#objectives)
+[![03](https://img.shields.io/badge/03-ORBITS-22D3EE?style=flat-square&labelColor=0F172A)](#orbits)
+[![04](https://img.shields.io/badge/04-PAYLOAD-22D3EE?style=flat-square&labelColor=0F172A)](#payload)
+[![05](https://img.shields.io/badge/05-AUTONOMOUS-A78BFA?style=flat-square&labelColor=0F172A)](#autonomous)
+[![06](https://img.shields.io/badge/06-MISSIONS-A78BFA?style=flat-square&labelColor=0F172A)](#missions)
+[![07](https://img.shields.io/badge/07-COMMS-34D399?style=flat-square&labelColor=0F172A)](#comms)
+
+</div>
+
+<br/>
+
+| 🧑‍🚀 If you are… | 🚀 Set course for |
+|:--|:--|
+| **Hiring or scouting talent** | [Mission Log](#missions) → shipped products, then [Payload Capabilities](#payload) |
+| **An engineer curious about the stack** | [Orbital Map](#orbits) → then the [Autonomous Systems](#autonomous) flight path |
+| **Looking to collaborate or chat** | [Open Comms Channel](#comms) |
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<a id="briefing"></a>
 
 ## 🛰️ Mission Briefing
 
@@ -31,7 +71,11 @@ What I care about is the part that makes AI products trustworthy, not just impre
 
 > **`RELIABILITY`** · **`LATENCY`** · **`COST`** · **`SAFETY`** · **`USER EXPERIENCE`** · **`ITERATIVE DELIVERY`**
 
+<sub>[↑ back to Mission Control](#mission-control)</sub>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
+
+<a id="objectives"></a>
 
 ## 🎯 Mission Objectives
 
@@ -58,9 +102,28 @@ What I care about is the part that makes AI products trustworthy, not just impre
   </tr>
 </table>
 
+<sub>[↑ back to Mission Control](#mission-control)</sub>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-## 🧰 Onboard Systems
+<a id="orbits"></a>
+
+## 🪐 Orbital Map
+
+<div align="center">
+
+<img src="./assets/orbit.svg" width="100%" alt="Animated solar system: an AI Product Engineer at the center, with Agents, RAG, Sandboxes, Evaluation, and Cloud & DevOps orbiting." />
+
+<sub>Every planet is a capability I ship with. Watch them drift, then open the full manifest below. 👇</sub>
+
+</div>
+
+<br/>
+
+<details>
+<summary><b>🧰 Open the full systems manifest</b> — 9 subsystems, every module on board</summary>
+
+<br/>
 
 | Subsystem | Modules |
 |:--|:--|
@@ -74,7 +137,13 @@ What I care about is the part that makes AI products trustworthy, not just impre
 | **🛡️ Containment**<br/>Deployment & Sandboxing | ![Docker Engine SDK](https://img.shields.io/badge/Docker_Engine_SDK-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![Docker Compose](https://img.shields.io/badge/Docker_Compose-164E63?style=flat-square&logo=docker&logoColor=67E8F9) ![E2B](https://img.shields.io/badge/E2B-164E63?style=flat-square) ![Daytona](https://img.shields.io/badge/Daytona-164E63?style=flat-square) ![Reproducible Environments](https://img.shields.io/badge/Reproducible_Environments-164E63?style=flat-square) |
 | **☁️ Launchpad**<br/>Cloud & DevOps | ![AWS](https://img.shields.io/badge/AWS-312E81?style=flat-square&logo=amazonaws&logoColor=67E8F9) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-312E81?style=flat-square&logo=githubactions&logoColor=67E8F9) ![CI/CD](https://img.shields.io/badge/CI%2FCD-312E81?style=flat-square) ![Kubernetes](https://img.shields.io/badge/Kubernetes_(concepts)-312E81?style=flat-square&logo=kubernetes&logoColor=67E8F9) ![Serverless](https://img.shields.io/badge/Serverless_Patterns-312E81?style=flat-square) |
 
+</details>
+
+<sub>[↑ back to Mission Control](#mission-control)</sub>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
+
+<a id="payload"></a>
 
 ## ⚙️ Payload Capabilities
 
@@ -90,7 +159,11 @@ What I care about is the part that makes AI products trustworthy, not just impre
 | **Evaluation & observability** | **Langfuse** traces plus **Ragas** and **DeepEval** harnesses for retrieval and answer quality, with **Arize Phoenix** / **LangSmith** for debugging runs |
 | **Production reliability** | Streaming, model routing, guardrails, and cost/latency monitoring to keep systems predictable |
 
+<sub>[↑ back to Mission Control](#mission-control)</sub>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
+
+<a id="autonomous"></a>
 
 ## 🧠 Autonomous Systems
 
@@ -103,11 +176,59 @@ Beyond single-prompt chatbots, I build agents that can plan, delegate, remember,
 - **Agentic coding & DevOps workflows** — coding and infrastructure agents with safe Git operations, review gates, and human-in-the-loop approval on risky actions
 - **Evaluation & tracing** — replayable **Langfuse** traces and task-level evals (**Ragas**, **DeepEval**) so agent behavior can be measured, compared, and improved between releases
 
+<details open>
+<summary><b>🛸 Flight path of a request</b> — how these pieces fit together (click to collapse)</summary>
+
+<br/>
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#1E1B4B','primaryTextColor':'#E0E7FF','primaryBorderColor':'#6366F1','lineColor':'#22D3EE','secondaryColor':'#0F172A','tertiaryColor':'#0F172A','fontFamily':'ui-monospace, monospace'}}}%%
+flowchart LR
+    U(["👨‍🚀 User request"]) --> G["🧠 LangGraph agent<br/>plan · route · remember"]
+    G -->|"typed tool calls · MCP"| T["🛠️ Tools"]
+    G -->|"retrieve context"| R[("📚 Qdrant / pgvector")]
+    G -->|"run generated code"| S["🛡️ Sandbox<br/>E2B · Daytona · Docker"]
+    T --> G
+    R --> G
+    S --> G
+    G -->|"grounded answer"| A(["🛰️ Response"])
+    G -.->|"traces + evals"| L["🔭 Langfuse · Ragas · DeepEval"]
+```
+
+<sub>Illustrative flight path of the agent systems I build. Click the diagram on GitHub to zoom and pan.</sub>
+
+</details>
+
+<sub>[↑ back to Mission Control](#mission-control)</sub>
+
 <img src="./assets/divider.svg" width="100%" alt="" />
+
+<a id="missions"></a>
 
 ## 🚀 Mission Log
 
-### 🛸 MISSION 01 — MerchCraft AI · Merch Mockups & Print Studio
+> **Click a mission file to decrypt it.**
+
+### 🛰️ Launch Bay
+
+| Mission | Brief | Launch |
+|:--|:--|:--|
+| **[MerchCraft AI](https://github.com/Abdulrahman-Ayman-Farid/MerchCraft)** | Photorealistic merch mockups & print-ready production files | [![Launch](https://img.shields.io/badge/LAUNCH-MERCHCRAFT-6366F1?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/MerchCraft) |
+| **[Loqta](https://github.com/Abdulrahman-Ayman-Farid/Loqta)** | Marketplace that rescues near-expiry premium grocery stock | [![Launch](https://img.shields.io/badge/LAUNCH-LOQTA-22D3EE?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/Loqta) |
+| **[StoryBoard AI](https://github.com/Abdulrahman-Ayman-Farid/StoryBoard-AI)** | AI pre-visualization for directors, screenwriters, and creators | [![Launch](https://img.shields.io/badge/LAUNCH-STORYBOARD_AI-A78BFA?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/StoryBoard-AI) |
+| **[Sentinel-Watch](https://github.com/Abdulrahman-Ayman-Farid/Sentinel-Watch)** | Real-time sentiment analysis across social platforms | [![Launch](https://img.shields.io/badge/LAUNCH-SENTINEL--WATCH-34D399?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/Sentinel-Watch) |
+| **[FlavorFrame](https://github.com/Abdulrahman-Ayman-Farid/FlavorFrame-Virtual-Food-Photographer)** | AI virtual food photographer for restaurant menus | [![Launch](https://img.shields.io/badge/LAUNCH-FLAVORFRAME-F472B6?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/FlavorFrame-Virtual-Food-Photographer) |
+| **[Dream Garden Designer](https://github.com/Abdulrahman-Ayman-Farid/Dream-Garden-Designer)** | Craft your personal beautiful garden with the power of AI | [![Launch](https://img.shields.io/badge/LAUNCH-DREAM_GARDEN-FBBF24?style=flat-square&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/Dream-Garden-Designer) |
+
+<sub>Or decrypt the full mission files below. 👇</sub>
+
+<details open>
+<summary><b>🛸 MISSION 01 — MerchCraft AI</b> · Merch Mockups & Print Studio</summary>
+
+<br/>
+
+[![Open on GitHub](https://img.shields.io/badge/OPEN_ON-GITHUB-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/MerchCraft)
+
 *Photorealistic 3D merchandise mockups, AI commercial photoshoots, and print-ready production files.*
 
 - **Problem:** flat "sticker" mockups look fake, pre-press files arrive unformatted, and lifestyle photoshoots cost thousands per drop
@@ -116,7 +237,15 @@ Beyond single-prompt chatbots, I build agents that can plan, delegate, remember,
 - **Search-grounded trend radar:** live streetwear trends and colorways with verified web sources, applied to the canvas in one click
 - **Pre-press pipeline:** transparent 300 DPI masters at true physical size with bleed margins, crop marks, CMYK gamut simulation, and downloadable tech packs
 
-### 🛰️ MISSION 02 — Loqta · The Smart Way to Shop
+</details>
+
+<details>
+<summary><b>🛰️ MISSION 02 — Loqta</b> · The Smart Way to Shop</summary>
+
+<br/>
+
+[![Open on GitHub](https://img.shields.io/badge/OPEN_ON-GITHUB-22D3EE?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/Loqta)
+
 *A two-sided marketplace that rescues near-expiry premium grocery stock.*
 
 - **Value:** shoppers save up to 70% while distributors recover value and cut food waste
@@ -124,13 +253,66 @@ Beyond single-prompt chatbots, I build agents that can plan, delegate, remember,
 - **Vendor portal:** real-time dashboard for listings, sales, pending orders, and inventory and discount management
 - **Auth & access:** Google sign-in through Supabase with role-based access (customer vs. vendor) and protected route guards
 
-### 🎬 MISSION 03 — StoryBoard AI · Turn Your Words into Worlds
+</details>
+
+<details>
+<summary><b>🎬 MISSION 03 — StoryBoard AI</b> · Turn Your Words into Worlds</summary>
+
+<br/>
+
+[![Open on GitHub](https://img.shields.io/badge/OPEN_ON-GITHUB-A78BFA?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/StoryBoard-AI)
+
 *AI pre-visualization for directors, screenwriters, and creators.*
 
 - **Script analysis:** Gemini 2.5 Flash parses sluglines, actions, and transitions, then turns scene descriptions into detailed photography prompts (lighting, camera angles, lenses)
 - **Cinematic rendering:** Imagen generates photorealistic or stylized frames in 16:9, 21:9, 4:3, and 1:1, from 1K drafts to 4K production
 - **Director's suite:** visual prompt editor with "AI Enhance", drag-and-drop scene reordering, project snapshots with version history, and PDF shot-list export
 - **Result:** cuts the path from script to storyboard from days to minutes
+
+</details>
+
+<details>
+<summary><b>📡 MISSION 04 — Sentinel-Watch</b> · Real-Time Sentiment Intelligence</summary>
+
+<br/>
+
+[![Open on GitHub](https://img.shields.io/badge/OPEN_ON-GITHUB-34D399?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/Sentinel-Watch)
+
+*A high-performance, real-time sentiment analysis system for teams that need instant visibility into how conversations evolve across social platforms.*
+
+- **Ingestor service:** streams posts from sources like Reddit and X into Redis queues
+- **Worker services:** compute sentiment scores and enrich events as they flow through the queues
+- **Socket Server:** streams the enriched results out in real time
+
+</details>
+
+<details>
+<summary><b>🍽️ MISSION 05 — FlavorFrame</b> · Virtual Food Photographer</summary>
+
+<br/>
+
+[![Open on GitHub](https://img.shields.io/badge/OPEN_ON-GITHUB-F472B6?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/FlavorFrame-Virtual-Food-Photographer)
+
+*An AI-powered virtual food photographer that transforms any text-based restaurant menu into realistic, high-end dish photography.*
+
+- **Built for:** marketing, delivery apps, and in-house menus
+- **Visual styles:** restaurant owners toggle between rustic/dark, bright/modern, or social-media top-down looks
+<!-- TODO: finish the sentence about ambiance presets ("advanced ambiance presets such …") and add it as a bullet here -->
+
+</details>
+
+<details>
+<summary><b>🌿 MISSION 06 — Dream Garden Designer</b> · Your Garden, Imagined</summary>
+
+<br/>
+
+[![Open on GitHub](https://img.shields.io/badge/OPEN_ON-GITHUB-FBBF24?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A)](https://github.com/Abdulrahman-Ayman-Farid/Dream-Garden-Designer)
+
+*Craft your personal beautiful garden with the power of AI.*
+
+</details>
+
+<sub>[↑ back to Mission Control](#mission-control)</sub>
 
 <!--
   OPTIONAL — MISSION TELEMETRY (live GitHub stats in the same palette).
@@ -152,6 +334,8 @@ Beyond single-prompt chatbots, I build agents that can plan, delegate, remember,
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+<a id="comms"></a>
+
 ## 📫 Open Comms Channel
 
 I'm happy to talk about AI product engineering, agentic systems, and production RAG.
@@ -160,6 +344,22 @@ I'm happy to talk about AI product engineering, agentic systems, and production 
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-6366F1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdulrahman-ayman-farid/)
 [![Email](https://img.shields.io/badge/Send_an_Email-22D3EE?style=for-the-badge&logo=gmail&logoColor=0F172A)](mailto:abdulrahmanaymanfarid@gmail.com)
+
+<br/>
+
+<details>
+<summary>📡 <b>Unidentified signal detected…</b> (click to decode)</summary>
+
+<br/>
+
+**TRANSMISSION DECODED:** you scrolled all the way down here, which makes you my kind of explorer. 🚀
+If you're building with agents, RAG, or sandboxes, my channel is open. Send a signal.
+
+</details>
+
+<br/>
+
+<sub>[↑ return to Mission Control](#mission-control)</sub>
 
 <br/>
 
