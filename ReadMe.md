@@ -1,10 +1,10 @@
 <!--
   SPACE-TECH THEME · PLAIN-LANGUAGE EDITION
-  The space look lives in the visuals (banner, dividers, terminal, orbit map, footer).
+  The space look lives in the visuals (banner, dividers, orbit map, footer).
   All headings and text are written plainly so visitors can scan the page quickly.
 
   Palette: void #03040C · deep navy #0F172A · indigo #6366F1 · cyan #22D3EE · violet #A78BFA
-  Animated visuals live in ./assets (header.svg, divider.svg, footer.svg, transmission.svg, orbit.svg).
+  Animated visuals live in ./assets (header.svg, divider.svg, footer.svg, orbit.svg).
   GitHub plays their CSS/SMIL animations when they are embedded with <img>, so keep them as <img> tags.
 
   GitHub strips JavaScript. Interactivity here = collapsible sections, jump links, animated SVGs, Mermaid.
@@ -19,25 +19,6 @@
 
 <br/>
 
-![Role](https://img.shields.io/badge/ROLE-AI_PRODUCT_ENGINEER-6366F1?style=flat-square&labelColor=0F172A)
-![Experience](https://img.shields.io/badge/EXPERIENCE-~3_YEARS-22D3EE?style=flat-square&labelColor=0F172A)
-![Focus](https://img.shields.io/badge/FOCUS-AGENTIC_AI_·_RAG-A78BFA?style=flat-square&labelColor=0F172A)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0F172A?style=for-the-badge&logo=linkedin&logoColor=67E8F9)](https://www.linkedin.com/in/abdulrahman-ayman-farid/)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=for-the-badge&logo=gmail&logoColor=67E8F9)](mailto:abdulrahmanaymanfarid@gmail.com)
-
-<br/>
-
-<img src="./assets/transmission.svg" width="100%" alt="Terminal: Abdulrahman, AI Product Engineer. Builds agentic AI, production RAG, and sandboxed agents." />
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-## 🧭 Quick Navigation
-
-<div align="center">
-
 [![About](https://img.shields.io/badge/ABOUT-6366F1?style=flat-square&labelColor=0F172A)](#about)
 [![Focus](https://img.shields.io/badge/FOCUS_AREAS-6366F1?style=flat-square&labelColor=0F172A)](#focus)
 [![Skills](https://img.shields.io/badge/SKILLS_&_TOOLS-22D3EE?style=flat-square&labelColor=0F172A)](#skills)
@@ -48,22 +29,13 @@
 
 </div>
 
-<br/>
-
-| I want to… | Go to |
-|:--|:--|
-| See what I've built | [Projects](#projects) |
-| See my tech stack | [Skills & Tools](#skills) |
-| Understand how I build AI systems | [What I Do](#what-i-do) and [Agentic AI](#agentic-ai) |
-| Get in touch | [Contact](#contact) |
-
 <img src="./assets/divider.svg" width="100%" alt="" />
 
 <a id="about"></a>
 
 ## 👨‍🚀 About Me
 
-I'm an **AI Product Engineer** with **~3 years of hands-on experience** across the AI stack. I started by building AI features; today I design and ship **production-ready AI products** — from agent architecture and retrieval pipelines to sandboxed execution, deployment, and observability.
+I have **~3 years of hands-on experience** across the AI stack. I started by building AI features; today I design and ship **production-ready AI products** — from agent architecture and retrieval pipelines to sandboxed execution, deployment, and observability.
 
 What I care about is the part that makes AI products trustworthy, not just impressive in a demo:
 
