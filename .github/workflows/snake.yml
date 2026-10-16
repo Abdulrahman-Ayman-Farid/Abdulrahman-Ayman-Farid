@@ -1,16 +1,12 @@
-name: Generate contribution graphs
+name: Generate contribution snake
 
-# Builds the per-year contribution graphs and the snake, then publishes them together,
-# because the publish step replaces the whole "output" branch.
 on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
-    paths:
-      - ".github/workflows/snake.yml"
-      - ".github/scripts/contrib-graph.mjs"
+    paths: [".github/workflows/snake.yml"]
 
 permissions:
   contents: write
@@ -20,19 +16,6 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v4
-
-      - uses: actions/setup-node@v4
-        with:
-          node-version: 20
-
-      - name: Render the per-year contribution graphs
-        run: node .github/scripts/contrib-graph.mjs
-        env:
-          GH_USER: ${{ github.repository_owner }}
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          OUT_DIR: dist
-
       - name: Render the contribution snake
         uses: Platane/snk/svg-only@v3
         with:
