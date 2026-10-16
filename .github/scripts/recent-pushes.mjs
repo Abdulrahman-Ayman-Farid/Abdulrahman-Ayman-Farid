@@ -17,7 +17,11 @@ const api = async (path) => {
 };
 
 const events = await api(`/users/${user}/events/public?per_page=100`);
-const pushes = events.filter((e) => e.type === "PushEvent" && e.payload?.head).slice(0, limit);
+// Public pushes only (a broad token can surface private repos), skipping the profile repo itself, newest first.
+const pushes = events
+  .filter((e) => e.type === "PushEvent" && e.public === true && e.payload?.head && e.repo.name !== `${user}/${user}`)
+  .sort((a, b) => b.created_at.localeCompare(a.created_at))
+  .slice(0, limit);
 
 const esc = (s) => s.replace(/\|/g, "\|").replace(/[<>]/g, "");
 const rows = [];
