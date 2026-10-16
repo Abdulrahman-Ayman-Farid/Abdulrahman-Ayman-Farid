@@ -10,7 +10,8 @@
   Live pieces (all auto-updating, same palette):
     - Typing tagline ........ readme-typing-svg
     - Streak / stats / langs  streak-stats.demolab.com · github-readme-stats · github-profile-summary-cards
-    - Contribution snake .... .github/workflows/snake.yml  (writes to the "output" branch)
+    - Contribution orbit .... .github/workflows/snake.yml + .github/scripts/contrib-orbit.mjs
+                              (all-years calendar + snake, published to the "output" branch every 6h)
     - Latest pushes table ... .github/workflows/recent-pushes.yml  (rewrites the PUSHES block below)
 
   GitHub strips JavaScript. Interactivity here = collapsible sections, jump links, animated SVGs, Mermaid.
@@ -331,13 +332,21 @@ Live telemetry from my GitHub account — streaks, commits, languages, and the l
 
 <br/>
 
-### 🐍 Contribution orbit
+### 🌌 Contribution orbit
+
+Every day I've shipped code since launch: all-time totals, streaks, a month-by-month chart, and a full calendar for each year. The brighter the cell, the more I pushed that day.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/snake-space.svg" width="100%" alt="A snake eating through my GitHub contribution graph" />
+<a href="https://github.com/Abdulrahman-Ayman-Farid?tab=overview">
+  <img src="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/contrib-orbit.svg" width="100%" alt="Contribution calendar for every year on GitHub, with total contributions, active days, longest and current streak, best day, busiest weekday, and monthly contribution bars" />
+</a>
 
-<sub>A cyan snake devours my contribution graph, regenerated every 12 hours.</sub>
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/snake-space.svg" width="100%" alt="A snake eating through my last year of GitHub contributions" />
+
+<sub>Both charts rebuild every 6 hours. The snake eats its way through the last 12 months.</sub>
 
 </div>
 

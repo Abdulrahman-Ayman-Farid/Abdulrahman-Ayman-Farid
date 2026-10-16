@@ -1,12 +1,16 @@
 name: Generate space snake
 
+# Builds both contribution visuals (orbit calendar + snake) and publishes them together,
+# because the publish step replaces the whole "output" branch.
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 */6 * * *"
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/workflows/snake.yml"]
+    paths:
+      - ".github/workflows/snake.yml"
+      - ".github/scripts/contrib-orbit.mjs"
 
 permissions:
   contents: write
@@ -16,6 +20,19 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 10
     steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Render the contribution orbit calendar
+        run: node .github/scripts/contrib-orbit.mjs
+        env:
+          GH_USER: ${{ github.repository_owner }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          OUT_FILE: dist/contrib-orbit.svg
+
       - name: Render the contribution snake
         uses: Platane/snk/svg-only@v3
         with:
