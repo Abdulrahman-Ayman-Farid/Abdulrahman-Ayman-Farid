@@ -10,8 +10,8 @@
   Live pieces (all auto-updating, same palette):
     - Typing tagline ........ readme-typing-svg
     - Streak / stats / langs  streak-stats.demolab.com · github-readme-stats · github-profile-summary-cards
-    - Contribution orbit .... .github/workflows/snake.yml + .github/scripts/contrib-orbit.mjs
-                              (all-years calendar + snake, published to the "output" branch every 6h)
+    - Contribution graphs ... .github/workflows/snake.yml + .github/scripts/contrib-graph.mjs
+                              (per-year graphs + snake, light/dark, published to the "output" branch every 6h)
     - Latest pushes table ... .github/workflows/recent-pushes.yml  (rewrites the PUSHES block below)
 
   GitHub strips JavaScript. Interactivity here = collapsible sections, jump links, animated SVGs, Mermaid.
@@ -332,21 +332,27 @@ Live telemetry from my GitHub account — streaks, commits, languages, and the l
 
 <br/>
 
-### 🌌 Contribution orbit
+### 🟩 Contributions
 
-Every day I've shipped code since launch: all-time totals, streaks, a month-by-month chart, and a full calendar for each year. The brighter the cell, the more I pushed that day.
+My contribution graph for every year on GitHub.
 
 <div align="center">
 
 <a href="https://github.com/Abdulrahman-Ayman-Farid?tab=overview">
-  <img src="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/contrib-orbit.svg" width="100%" alt="Contribution calendar for every year on GitHub, with total contributions, active days, longest and current streak, best day, busiest weekday, and monthly contribution bars" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/contrib-graph-dark.svg" />
+    <img src="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/contrib-graph-light.svg" alt="My GitHub contribution graph for each year, 2023 to 2026" />
+  </picture>
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/snake-space.svg" width="100%" alt="A snake eating through my last year of GitHub contributions" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Abdulrahman-Ayman-Farid/Abdulrahman-Ayman-Farid/output/snake-light.svg" width="100%" alt="A snake eating through my last year of GitHub contributions" />
+</picture>
 
-<sub>Both charts rebuild every 6 hours. The snake eats its way through the last 12 months.</sub>
+<sub>Rebuilt every 6 hours.</sub>
 
 </div>
 
