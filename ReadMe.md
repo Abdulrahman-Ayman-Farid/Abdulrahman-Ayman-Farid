@@ -353,12 +353,12 @@ My most recent pushes, pulled straight from GitHub.
 <!-- PUSHES:START -->
 | Date | Repository | Branch | Latest commit |
 |:--|:--|:--|:--|
+| `Oct 25` | [**Skill-Registery**](https://github.com/Abdulrahman-Ayman-Farid/Skill-Registery/commit/9e3f33cbae55ff625785a6584848cdba95960ae8) | `main` | chore: configure environment and test script |
 | `Oct 25` | [**Skill-Registery**](https://github.com/Abdulrahman-Ayman-Farid/Skill-Registery/commit/80e4ced0f2a2529a19b36543ae47b1238a1d45db) | `main` | feat: initialize AI Agent Skill Registry project |
 | `Oct 14` | [**OmniTrivia**](https://github.com/Abdulrahman-Ayman-Farid/OmniTrivia/commit/5f687c992aa2056aea14964c85de8209a45270ce) | `main` | feat: initialize OmniTrivia project scaffolding |
 | `Oct 14` | [**Virtual-Stylist**](https://github.com/Abdulrahman-Ayman-Farid/Virtual-Stylist/commit/cbdb53b3f088b64ac836446fe9e8ab27c7c39add) | `main` | feat: initialize virtual stylist project |
 | `Oct 12` | [**MerchCraft**](https://github.com/Abdulrahman-Ayman-Farid/MerchCraft/commit/26e5cc1db34b4bf4fabc43d91e29a70728615cb8) | `main` | feat: initialize MerchCraft AI project structure |
 | `Oct 7` | [**StoryForge**](https://github.com/Abdulrahman-Ayman-Farid/StoryForge/commit/9df83caa91d40362ce91ea3125682dd0f77486a1) | `main` | docs: add comprehensive project README |
-| `Oct 7` | [**StoryForge**](https://github.com/Abdulrahman-Ayman-Farid/StoryForge/commit/aa114902ccac0346d6cc05fa38561397a636d19a) | `main` | feat: initialize StoryForge project structure |
 <!-- PUSHES:END -->
 
 <sub>[↑ Back to top](#top)</sub>
