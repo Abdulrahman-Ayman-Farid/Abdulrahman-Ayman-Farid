@@ -354,7 +354,6 @@ My most recent pushes, pulled straight from GitHub.
 | Date | Repository | Branch | Latest commit |
 |:--|:--|:--|:--|
 | `Oct 25` | [**Skill-Registery**](https://github.com/Abdulrahman-Ayman-Farid/Skill-Registery/commit/9e3f33cbae55ff625785a6584848cdba95960ae8) | `main` | chore: configure environment and test script |
-| `Oct 25` | [**Skill-Registery**](https://github.com/Abdulrahman-Ayman-Farid/Skill-Registery/commit/80e4ced0f2a2529a19b36543ae47b1238a1d45db) | `main` | feat: initialize AI Agent Skill Registry project |
 <!-- PUSHES:END -->
 
 <sub>[↑ Back to top](#top)</sub>
