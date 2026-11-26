@@ -351,9 +351,7 @@ Live telemetry from my GitHub account — streaks, commits, languages, and the l
 My most recent pushes, pulled straight from GitHub.
 
 <!-- PUSHES:START -->
-| Date | Repository | Branch | Latest commit |
-|:--|:--|:--|:--|
-| `Oct 25` | [**Skill-Registery**](https://github.com/Abdulrahman-Ayman-Farid/Skill-Registery/commit/9e3f33cbae55ff625785a6584848cdba95960ae8) | `main` | chore: configure environment and test script |
+_No public pushes in the last 90 days — mission control is quiet._
 <!-- PUSHES:END -->
 
 <sub>[↑ Back to top](#top)</sub>
