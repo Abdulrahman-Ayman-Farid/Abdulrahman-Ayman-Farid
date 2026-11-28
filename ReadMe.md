@@ -351,7 +351,9 @@ Live telemetry from my GitHub account — streaks, commits, languages, and the l
 My most recent pushes, pulled straight from GitHub.
 
 <!-- PUSHES:START -->
-_No public pushes in the last 90 days — mission control is quiet._
+| Date | Repository | Branch | Latest commit |
+|:--|:--|:--|:--|
+| `Nov 27` | [**ChronaMind**](https://github.com/eMinders/ChronaMind/commit/ef65d574a7ce4a361afd675ab77d0660ba003005) | `main` | Merge pull request #307 from eMinders/feat/memory-inspector-router |
 <!-- PUSHES:END -->
 
 <sub>[↑ Back to top](#top)</sub>
